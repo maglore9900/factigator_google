@@ -158,14 +158,16 @@ async function retryWithKeywordsAsync(fns) {
   Only return the keywords as a comma delimited list
   <keywords>'{keyWords}'</keywords>`
     // console.log(reducePrompt.replace('{keyWords}', currentKeywords.join(' ')))
-    let attempt = 0
-    const keyword_count = len(currentKeywords)
+    let attempt = 0;
+    const keyword_count = currentKeywords.length;
     while (attempt < 4) {
-      const newReducedKeywordsResponse = await adapter.chat(reducePrompt.replace('{keyWords}', currentKeywords.join(' ')));
-      console.log(`newReducedKeywordsResponse: ${newReducedKeywordsResponse}`)
-      if (len(newReducedKeywordsResponse) < keyword_count) {
+      const newReducedKeywordsResponse = await adapter.chat(reducePrompt.replace('{keyWords}', currentKeywords.join(',')));
+      console.log(`newReducedKeywordsResponse: ${newReducedKeywordsResponse}`);
+      if (newReducedKeywordsResponse.length < keyword_count) {
         return newReducedKeywordsResponse;
       }
+      attempt++;
+    }
       attempt ++;
     console.log("Failed to reduce keywords 3 times, exiting.")
     process.exit(1)
@@ -206,6 +208,7 @@ async function retryWithKeywordsAsync(fns) {
         // Increment iteration count to access the next list of keywords
         iterationCount++;
       }
+      console.log(`No results found for function ${index} with current keywords.`);
     })
   );
   
@@ -272,4 +275,3 @@ async function performFactCheck(claim) {
       throw new Error(`Error during fact-checking: ${error.message}`);
     }
   }
-}
