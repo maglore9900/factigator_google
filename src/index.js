@@ -158,51 +158,20 @@ async function retryWithKeywordsAsync(fns) {
   Only return the keywords as a comma delimited list
   <keywords>'{keyWords}'</keywords>`
     // console.log(reducePrompt.replace('{keyWords}', currentKeywords.join(' ')))
-    const newReducedKeywordsResponse = await adapter.chat(reducePrompt.replace('{keyWords}', currentKeywords.join(' ')));
-    console.log(`newReducedKeywordsResponse: ${newReducedKeywordsResponse}`)
-    return newReducedKeywordsResponse;
+    let attempt = 0
+    const keyword_count = len(currentKeywords)
+    while (attempt < 4) {
+      const newReducedKeywordsResponse = await adapter.chat(reducePrompt.replace('{keyWords}', currentKeywords.join(' ')));
+      console.log(`newReducedKeywordsResponse: ${newReducedKeywordsResponse}`)
+      if (len(newReducedKeywordsResponse) < keyword_count) {
+        return newReducedKeywordsResponse;
+      }
+      attempt ++;
+    console.log("Failed to reduce keywords 3 times, exiting.")
+    process.exit(1)
   }
 
-  // Process each function independently
-  // await Promise.all(
-  //   fns.map(async (fn, index) => {
-  //     let iterationCount = 0;
-
-  //     // Loop until result is found or keywords are exhausted
-  //     while (true) {
-  //       // Check if the number of iterations is less than the number of lists in global_keywords
-  //       console.log(`current keyword length: ${global_keywords[global_keywords.length - 1]} and length: ${global_keywords[global_keywords.length - 1].length} on i: ${iterationCount}, keyword lists count ${global_keywords.length}`);
-  //       if (iterationCount <= global_keywords.length) {
-  //         const currentKeywords = global_keywords[global_keywords.length - 1];
-  //         // Attempt the function with the current set of keywords
-  //         const result = await fn(currentKeywords);
-
-  //         // If a result is found, store it and break out of the loop
-  //         if (result && result.length > 0) {
-  //           results[index] = result;
-  //           break;
-  //         }
-          
-  //       } 
-  //       // If iterations match global list length and the last list has more than one keyword, reduce keywords
-  //       else if (global_keywords[global_keywords.length - 1].length > 1) {
-  //         const reducedKeywords =  await generateReducedKeywords(global_keywords[global_keywords.length - 1]);
-  //         const cleanReducedKeywords = cleanKeywords(reducedKeywords);
-  //         console.log("trying push")
-  //         global_keywords.push(cleanReducedKeywords);
-  //         console.log(`global keyword list length ${global_keywords.length}`)
-  //       } 
-  //       // If only one keyword remains, exit loop without finding a result
-  //       else {
-  //         // console.log(`No results found for function ${index} with reduced keywords.`);
-  //         break;
-  //       }
-
-  //       // Increment iteration count
-  //       iterationCount++;
-  //     }
-  //   })
-  // );
+  //Master Function of Functions
   await Promise.all(
     fns.map(async (fn, index) => {
       let iterationCount = 0;
@@ -229,7 +198,7 @@ async function retryWithKeywordsAsync(fns) {
           const cleanReducedKeywords = cleanKeywords(reducedKeywords);
           global_keywords.push(cleanReducedKeywords);
           console.log(`Global keyword list length: ${global_keywords.length}`);
-        } else if (iterationCount === global_keywords.length - 1) {
+        } else if (iterationCount === global_keywords.length - 1 || iterationCount > 5) {
           console.log(`No results found for function ${index} with current keywords.`);
           break;
         }
@@ -241,23 +210,8 @@ async function retryWithKeywordsAsync(fns) {
   );
   
 
-
-
-
-
   return results;
 }
-
-// function cleanKeywords(keyWords) {
-//   if (typeof keyWords !== 'string') {
-//     throw new Error('Keywords must be a string');
-//   }
-
-//   // Clean the string by removing non-alphanumeric characters (excluding spaces)
-//   const cleanedString = keyWords.replace(/\n/g, ' ').replace(/[^a-zA-Z\s]/g, '').trim();
-//   // Split by spaces and trim each resulting part
-//   return cleanedString.split(/\s+/).filter(word => word);
-// }
 
 function cleanKeywords(keyWords) {
   if (typeof keyWords !== 'string') {
@@ -323,5 +277,6 @@ async function performFactCheck(claim) {
       }
     } catch (error) {
       throw new Error(`Error during fact-checking: ${error.message}`);
+    }
   }
 }
