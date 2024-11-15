@@ -224,13 +224,6 @@ function cleanKeywords(keyWords) {
   // Split by spaces and filter out empty entries
   return cleanedString.split(/\s+/).filter(word => word);
 }
-
-// Example usage:
-const input = "1. Climate\n2. Change\n3. Environment\n4. Sustainability\n5. Global";
-console.log(cleanKeywords(input)); // Should output: ['Climate', 'Change', 'Environment', 'Sustainability', 'Global']
-
-
-
   
 async function performFactCheck(claim) {  
     const extractPrompt = `<description>Extract the keywords from the given claim</description>
