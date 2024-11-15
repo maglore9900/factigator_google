@@ -72,9 +72,9 @@ class Adapter {
       console.log(`Sending query to LLM: ${query} to ${this.llmText}`);
       let result;
       let output;
-      if (this.llmText === !"google") {
+      if (this.llmText !== "google") {
         result = await this.llmChat.invoke(query);
-        output = result.content
+        output = result.content;
       } else {
         result = await this.llmChat.generateContent(query);
         output = result.response.text()
