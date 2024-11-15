@@ -106,7 +106,25 @@ function saveOptions(e) {
 
     const llmType = document.getElementById("llm-type").value;
     let openaiApiKey = document.getElementById("openai-api-key").value || '';
+    if (!openaiApiKey) {
+        try {
+            // Attempt to retrieve the API key from browser.storage.local
+            const result = browser.storage.local.get('openaiApiKey');
+            openaiApiKey = result.googleAopenaiApiKeypiKey || '';
+        } catch (error) {
+            console.error('Error retrieving googleApiKey key from storage:', error);
+        }
+    }
     let googleApiKey = document.getElementById("google-api-key").value || '';
+    if (!googleApiKey) {
+        try {
+            // Attempt to retrieve the API key from browser.storage.local
+            const result = browser.storage.local.get('googleApiKey');
+            googleApiKey = result.googleApiKey || '';
+        } catch (error) {
+            console.error('Error retrieving googleApiKey key from storage:', error);
+        }
+    }
     const openaiModel = document.getElementById("openai-model").value;
     const ollamaEndpoint = document.getElementById("ollama-endpoint").value;
     const ollamaModel = document.getElementById("ollama-model").value;
