@@ -149,26 +149,28 @@ async function retryWithKeywordsAsync(fns) {
 // Only return the keywords as a comma delimited list!`;
 
   const reducePrompt = `
-  <description>Review the Keywords that are being used to search for information to support a Claim.</description>
+  <description>Review the Keywords and remove the least important keyword.</description>
   <instruction>
-  In order to get a better search we need to remove one Keyword.<instruction/>
   Remove the least important keyword.
   YOU MUST REMOVE A WORD
-  REMOVE ONLY ONE KEYWORD. 
-  Only return the keywords as a comma delimited list
-  <keywords>'{keyWords}'</keywords>`
+  Only return the new keywords as a comma delimited list
+  </instruction>
+  <keyword>'{keyWords}'</keyword>`
     // console.log(reducePrompt.replace('{keyWords}', currentKeywords.join(' ')))
     let attempt = 0;
     const keyword_count = currentKeywords.length;
+    
     while (attempt < 4) {
-      const newReducedKeywordsResponse = await adapter.chat(reducePrompt.replace('{keyWords}', currentKeywords.join(',')));
-      console.log(`newReducedKeywordsResponse: ${newReducedKeywordsResponse}`);
-      if (newReducedKeywordsResponse.length < keyword_count) {
-        return newReducedKeywordsResponse;
+      console.log(`current keywords: ${currentKeywords}`)
+      let newReducedKeywordsResponse = await adapter.chat(reducePrompt.replace('{keyWords}', currentKeywords.join(', ')));
+      let cleanReducedKeywords = cleanKeywords(newReducedKeywordsResponse);  
+      console.log(`newReducedKeywordsResponse: ${cleanReducedKeywords}`);
+      if (cleanReducedKeywords.length < keyword_count) {
+        let attempt = 0;
+        return cleanReducedKeywords;
       }
       attempt++;
     }
-      attempt ++;
     console.log("Failed to reduce keywords 3 times, exiting.")
     process.exit(1)
   }
@@ -181,7 +183,7 @@ async function retryWithKeywordsAsync(fns) {
       // Loop until a result is found or all keyword lists are exhausted
       while (iterationCount < global_keywords.length) {
         // Access the keyword list at the position of iterationCount
-        const currentKeywords = global_keywords[iterationCount];
+        let currentKeywords = global_keywords[iterationCount];
         
         console.log(`Iteration: ${iterationCount}, keyword list length: ${currentKeywords.length}, keyword lists count: ${global_keywords.length}`);
   
@@ -197,8 +199,8 @@ async function retryWithKeywordsAsync(fns) {
         // If no result found and we reach the last list, attempt to reduce the keywords
         if (iterationCount === global_keywords.length - 1 && currentKeywords.length > 1) {
           const reducedKeywords = await generateReducedKeywords(currentKeywords);
-          const cleanReducedKeywords = cleanKeywords(reducedKeywords);
-          global_keywords.push(cleanReducedKeywords);
+          //let cleanReducedKeywords = cleanKeywords(reducedKeywords);
+          global_keywords.push(reducedKeywords);
           console.log(`Global keyword list length: ${global_keywords.length}`);
         } else if (iterationCount === global_keywords.length - 1 || iterationCount > 5) {
           console.log(`No results found for function ${index} with current keywords.`);
@@ -221,12 +223,13 @@ function cleanKeywords(keyWords) {
     throw new Error('Keywords must be a string');
   }
 
-  // Replace newlines with spaces, remove non-alphabetic characters (except spaces)
-  const cleanedString = keyWords.replace(/\n/g, ' ').replace(/[^a-zA-Z\s]/g, '').trim();
+  // Replace commas with spaces, replace newlines with spaces, remove non-alphabetic characters (except spaces)
+  const cleanedString = keyWords.replace(/,/g, ' ').replace(/\n/g, ' ').replace(/[^a-zA-Z\s]/g, '').trim();
   
   // Split by spaces and filter out empty entries
   return cleanedString.split(/\s+/).filter(word => word);
 }
+
   
 async function performFactCheck(claim) {  
     const extractPrompt = `<description>Extract the keywords from the given claim</description>
