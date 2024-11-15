@@ -25,6 +25,7 @@ function loadLLMSettings() {
           openaiModel: "gpt-4o-mini",
           ollamaEndpoint: "http://localhost:11434",
           ollamaModel: "llama3.2:3b",
+          googleApiKey: "",
           googleFactCheckerEnabled: true,
           rssFeeds: [],  // Include RSS feeds
           urls: [] 
