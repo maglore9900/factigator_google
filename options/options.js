@@ -171,7 +171,6 @@ function saveOptions(e) {
 }
 
 
-
 function maskApiKey() {
     const apiKeyInput = document.getElementById("openai-api-key");
     apiKeyInput.type = "password";
