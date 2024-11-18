@@ -65,64 +65,76 @@ class RSSreader {
   
   async searchRSSFeed(url, searchTerm) {
     try {
-      // Fetch the RSS feed
-      let rssText = null;
+        // Fetch the RSS feed
+        let rssText = null;
+        searchTerm = String(searchTerm);
 
-      if (this.getContent < this.rssUrls.length) {
-        rssText = await this.fetchFromBackground(url);
-        this.getContent += 1
-      }
-      // const rssText = await this.fetchData(url);
-  
-      // Check if rssText is null or empty
-      if (!rssText) {
-        // console.error(`Failed to fetch RSS feed from ${url}`);
-        return [];
-      }
-      if (typeof rssText !== 'string') {
-        console.error('rssText is not a string:', rssText);
-        return [];
-      }
-      if (rssText.startsWith('data:application/rss+xml; charset=UTF-8;base64,')) {
-        const base64Data = rssText.split(',')[1]; // Get the Base64 content after the comma
-        const decodedText = Buffer.from(base64Data, 'base64').toString('utf-8');
-        rssText = decodedText;
-      }
-      // console.log(`Readable text ${rssText}`);
-      // Parse the XML response using xmldom
-      const parser = new DOMParser();
-      const xmlDoc = parser.parseFromString(rssText, 'application/xml');
-  
-      // Check for parsing errors
-      const parseError = xmlDoc.getElementsByTagName('parsererror')[0];
-      if (parseError) {
-        // console.error(`Error parsing RSS feed from ${url}`);
-        return [];
-      }
-  
-      // Get all <item> elements in the feed
-      const items = xmlDoc.getElementsByTagName('item');
-  
-      // Search for the term in the title or description of each item
-      const searchResults = Array.from(items).filter(item => {
-        const title = item.getElementsByTagName('title')[0]?.textContent || '';
-        const description = item.getElementsByTagName('description')[0]?.textContent || '';
-        return (
-          title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          description.toLowerCase().includes(searchTerm.toLowerCase())
-        );
-      }).map(item => {
-        const title = item.getElementsByTagName('title')[0]?.textContent || 'No title';
-        const link = item.getElementsByTagName('link')[0]?.textContent || 'No link';
-        return { title, link };
-      });
-      // console.log(`Found results in ${url}, with keyword "${searchTerm}":`);
-      return searchResults;
+        if (this.getContent < this.rssUrls.length) {
+            rssText = await this.fetchFromBackground(url);
+            this.getContent += 1;
+        }
+
+        // Check if rssText is null or empty
+        if (!rssText) {
+            console.error(`Failed to fetch RSS feed from ${url}`);
+            return [];
+        }
+
+        if (typeof rssText !== 'string') {
+            console.error('rssText is not a string:', rssText);
+            return [];
+        }
+        // Handle Base64 encoding if necessary
+        if (rssText.startsWith('data:application/rss+xml; charset=UTF-8;base64,')) {
+            const base64Data = rssText.split(',')[1]; // Get the Base64 content after the comma
+            rssText = Buffer.from(base64Data, 'base64').toString('utf-8');
+        }
+
+        // Parse the XML response using DOMParser
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(rssText, 'application/xml');
+        console.log('Parsed XML Document:', xmlDoc);
+
+
+        // Check for parsing errors
+        const parseError = xmlDoc.getElementsByTagName('parsererror')[0];
+        if (parseError) {
+            console.error(`Error parsing RSS feed from ${url}`);
+            return [];
+        }
+
+        // Fetch all <title> elements
+        const items = xmlDoc.getElementsByTagName('item');
+
+        console.log(`Found ${items.length} <item> elements in the RSS feed.`);
+
+        if (items.length === 0) {
+            console.warn('No <item> elements found in the RSS feed.');
+            return [];
+        }
+
+        // Process <item> elements to find matches
+        const searchResults = Array.from(items).filter(item => {
+            const titleNode = item.getElementsByTagName('title')[0];
+            const titleText = titleNode?.textContent || ''; // Default to an empty string if no title
+            console.log('RSS Title:', titleText);
+
+            // Ensure titleText is a string before calling toLowerCase()
+            return typeof titleText === 'string' && titleText.toLowerCase().includes(searchTerm.toLowerCase());
+        }).map(item => {
+            const title = item.getElementsByTagName('title')[0]?.textContent || 'No title';
+            const link = item.getElementsByTagName('link')[0]?.textContent || 'No link';
+            return { title, link };
+        });
+
+        console.log(`Found ${searchResults.length} matching titles.`);
+        return searchResults;
     } catch (error) {
-      // console.error(`Error fetching or parsing RSS feed from ${url}:`, error);
-      return [];
+        console.error(`Error fetching or parsing RSS feed from ${url}:`, error);
+        return [];
     }
-  }
+}
+
   
 
   // Method to get content from a URL and convert it to plain text
@@ -151,29 +163,32 @@ class RSSreader {
   
     // Create an array of promises for concurrent feed searches
     const feedPromises = this.rssUrls.map(async ({ url, domain }) => {
-      // console.log(`\nSearching RSS feed at: ${url} (${domain})`);
-  
+      console.log(`\nSearching RSS feed at: ${url} (${domain} with search term: ${searchTerm})`);
+    
       // Search the RSS feed for the given term
       const searchResults = await this.searchRSSFeed(url, searchTerm);
-  
+        
+    
       if (searchResults.length > 0) {
         foundResults = true; // Mark that results are found
-        // console.log(`Found results in ${url}:`, searchResults);
-  
+        console.log(`Found RSS results in ${url}:`, searchResults);
+
         // Initialize the result array for the identifier if it doesn't exist
         if (!this.results[domain]) {
           this.results[domain] = [];
+          }
+
+          // Append search results to the results array for the identifier
+          this.results[domain].push(...searchResults);
+        } else {
+          console.log(`No results found for "${searchTerm}"`);
         }
-  
-        // Append search results to the results array for the identifier
-        this.results[domain].push(...searchResults);
-      } else {
-        // console.log(`No results found for "${searchTerm}" in ${identifier}`);
-      }
-    });
+      });
   
     // Run all feed searches concurrently
     await Promise.all(feedPromises);
+    console.log('Final results:', this.results); // Log final results before returning
+
   
     // Return the results or an empty object
     return foundResults ? this.results : {};
@@ -192,7 +207,7 @@ class RSSreader {
 
 
   fetchFromBackground(url) {
-    console.log(`Fetching from background: ${url}`);
+    // console.log(`Fetching from background: ${url}`);
     return new Promise((resolve, reject) => {
       // Send message to the background script with the URL
       chrome.runtime.sendMessage(
@@ -206,7 +221,7 @@ class RSSreader {
 
           if (response && response.success) {
             // Return the raw JSON data
-            console.log('Response data:', response.data);
+            // console.log('Response data:', response.data);
             resolve(response.data);
           } else if (!response) {
             console.log('No response from background script');

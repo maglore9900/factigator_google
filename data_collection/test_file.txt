@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FactCheck.org</title>
+	<atom:link href="https://www.factcheck.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.factcheck.org/</link>
+	<description>A Project of The Annenberg Public Policy Center</description>
+	<lastBuildDate>Fri, 15 Nov 2024 23:22:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>No Evidence Harris Campaign Paid for Celebrity Endorsements</title>
+		<link>https://www.factcheck.org/2024/11/no-evidence-harris-campaign-paid-for-celebrity-endorsements/</link>
+		
+		<dc:creator><![CDATA[Hadleigh Zinsner]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 23:22:03 +0000</pubDate>
+				<category><![CDATA[Debunking Viral Claims]]></category>
+		<category><![CDATA[FactCheck Posts]]></category>
+		<category><![CDATA[2024 elections]]></category>
+		<category><![CDATA[Presidential Election 2024]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264453</guid>
+
+					<description><![CDATA[<p><img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Celeb-Endorse-720-x-307.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" fetchpriority="high" srcset="https://cdn.factcheck.org/UploadedFiles/Celeb-Endorse-720-x-307.png 720w, https://cdn.factcheck.org/UploadedFiles/Celeb-Endorse-720-x-307-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />Vice President Kamala Harris received many celebrity endorsements leading up to the election, including from Beyoncé, Oprah Winfrey, Eminem, Megan Thee Stallion and Lizzo. Social media posts have made the unfounded claim that these celebrities were collectively paid $20 million for their endorsements. We've found no evidence to support the claim.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/no-evidence-harris-campaign-paid-for-celebrity-endorsements/">No Evidence Harris Campaign Paid for Celebrity Endorsements</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Celeb-Endorse-720-x-307.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" srcset="https://cdn.factcheck.org/UploadedFiles/Celeb-Endorse-720-x-307.png 720w, https://cdn.factcheck.org/UploadedFiles/Celeb-Endorse-720-x-307-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><em>Este artículo estará disponible en español <a href="https://eltiempolatino.com/author/factcheck/" target="_blank" rel="noreferrer noopener">en El Tiempo Latino</a>.</em></p>
+
+
+
+<h2 class="wp-block-heading">Quick Take</h2>
+
+
+
+<p>Vice President Kamala Harris received many celebrity endorsements leading up to the election, including from Beyoncé, Oprah Winfrey, Eminem, Megan Thee Stallion and Lizzo. Social media posts have made the unfounded claim that these celebrities were collectively paid $20 million for their endorsements. We&#8217;ve found no evidence to support the claim. </p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Full Story</h2>
+
+
+
+<p>In the months leading up to the election, Vice President Kamala Harris received several high-profile celebrity endorsements.</p>
+
+
+
+<p>In July, rapper Megan Thee Stallion <a href="https://www.usatoday.com/story/entertainment/celebrities/2024/07/30/megan-thee-stallion-kamala-harris-campaign-rally/74599637007/">appeared with Harris</a> at a rally in Atlanta.</p>
+
+
+
+<p>Television host Oprah Winfrey <a href="https://www.cnbc.com/2024/08/21/oprah-winfrey-harris-dnc.html">spoke at</a> the Democratic National Convention in August, where she endorsed Harris for president: &#8220;What we’re going to do is elect Kamala Harris as the next President of the United States,&#8221; Winfrey said.</p>
+
+
+
+<p>In October, rappers <a href="https://time.com/7096316/eminem-barack-obama-kamala-harris-campaign-detroit-michigan/">Eminem</a> and <a href="https://alabamareflector.com/2024/10/20/its-about-damn-time-to-elect-harris-as-president-lizzo-says/">Lizzo</a> both spoke at rallies for the vice president in Detroit.</p>
+
+
+
+<p>Singer-songwriter Beyoncé <a href="https://www.nytimes.com/2024/10/26/us/politics/harris-beyonce-rally-houston.html">endorsed Harris</a> later that month at a rally in Houston.</p>
+
+
+
+<p>Social media users have claimed, without any evidence, that these celebrities were collectively paid around $20 million for their endorsements.</p>
+
+
+
+<p>We <a href="https://www.factcheck.org/2024/10/posts-make-unfounded-claim-about-beyonces-endorsement-of-harris/" target="_blank" rel="noreferrer noopener">previously wrote</a> about the unfounded claim that Beyoncé was paid $10 million, which a Harris campaign official said “is not true.” Now, posts are claiming others were paid millions.</p>
+
+
+
+<p>A <a href="https://perma.cc/V3DU-99T4">Nov. 12 Instagram post</a> shared a clip from Fox News, in which anchor Harris Faulkner claimed that Beyoncé received $10 million from the Harris campaign for her endorsement, Megan Thee Stallion received $5 million, Lizzo received $3 million and Eminem received $1.8 million.</p>
+
+
+
+<p>In a caption, the user claimed that Oprah received $1 million for her endorsement.</p>
+
+
+
+<p>&#8220;Is that normally how it goes &#8212; you spend $20 million, you get yourself in debt to try to get a bunch of rich celebrities on stage?&#8221; Faulkner <a href="https://archive.org/details/FOXNEWSW_20241111_160000_The_Faulkner_Focus/start/2340/end/2400" target="_blank" rel="noreferrer noopener">asks</a> in the clip, referencing a claim from a Democratic National Committee member that the Harris campaign ended this election cycle with <a href="https://thehill.com/homenews/campaign/4986673-democratic-dnc-member-criticizes-harris-campaign/">$20 million in debt</a>.</p>
+
+
+
+<p>Federal Election Commission records for the Harris campaign are only available through <a href="https://perma.cc/6TWG-XPF8">Oct. 16</a> and show no debts are owed. Unnamed sources close to the campaign <a href="https://www.nbcnews.com/politics/kamala-harris/clashes-confusion-secrecy-consume-harris-campaign-finances-rcna179654">told NBC News</a> that some debt has been accrued.</p>
+
+
+
+<p>Former professional basketball player <a href="https://zsorryon.com/about/">Rod Benson</a> shared the claim on <a href="https://perma.cc/NUD6-8UMV">Threads</a>, writing, &#8220;We donated $1B to the Kamala campaign and a few days later they ask for more money cause they ended up with $20M in debt paying for celebrity endorsements.&#8221;</p>
+
+
+
+<p>In a separate post, Benson added: &#8220;They paid Oprah $1M to endorse the campaign.&#8221; </p>
+
+
+
+<p>Other users shared the <a href="https://perma.cc/H9ZH-X2PK">same</a> or <a href="https://perma.cc/96LQ-AKXY">similar</a> numbers. </p>
+
+
+
+<p>We&#8217;ve found no evidence to support the claim that these celebrities were paid anything in exchange for their endorsements. </p>
+
+
+
+<p>As <a href="https://www.factcheck.org/2024/10/posts-make-unfounded-claim-about-beyonces-endorsement-of-harris/">we&#8217;ve written</a>, political campaigns are required to publicly disclose any paid endorsements. But the Harris campaign, through Oct. 16, lists only one <a href="https://perma.cc/54BM-4VCV" target="_blank" rel="noreferrer noopener">endorsement-related expenditure</a> — for $75 — in its FEC <a href="https://www.fec.gov/data/disbursements/?data_type=processed&amp;committee_id=C00694455&amp;committee_id=C00703975&amp;two_year_transaction_period=2024" target="_blank" rel="noreferrer noopener">financial reports</a>. It was made to the <a href="https://www.factcheck.org/2024/09/league-of-conservation-voters-4/" target="_blank" rel="noreferrer noopener">League of Conservation Voters Action Fund</a>, a pro-environment political action committee, in June 2023, when President Joe Biden was <a href="https://archive.is/1TCzh" target="_blank" rel="noreferrer noopener">still running for reelection.</a></p>
+
+
+
+<p>The Harris campaign did make two payments totaling <a href="https://www.fec.gov/data/disbursements/?data_type=processed&amp;committee_id=C00694455&amp;committee_id=C00703975&amp;recipient_name=harpo&amp;two_year_transaction_period=2024">$1 million</a> to <a href="http://www.encyclopedia.chicagohistory.org/pages/2693.html">Harpo Productions Inc.</a>, Oprah Winfrey&#8217;s production company, on Oct. 15, for &#8220;event production.&#8221; Winfrey said in an <a href="https://perma.cc/J93E-HBPS">Instagram comment</a> that she was &#8220;not paid a dime&#8221; and that the payments went toward production fees for her <a href="https://uniteforamerica2024.com/">interview with Harris</a> in September. &#8220;I did not take any personal fee. However the people who worked on that production needed to be paid. And were. End of story,&#8221; Winfrey <a href="https://perma.cc/DM4L-VEUP" target="_blank" rel="noreferrer noopener">wrote</a>. </p>
+
+
+
+<p>We found no record of Harris&#8217; campaign paying <a href="https://www.fec.gov/data/disbursements/?data_type=processed&amp;committee_id=C00703975&amp;recipient_name=Parkwood+Entertainment&amp;recipient_name=beyonce&amp;recipient_name=knowles&amp;two_year_transaction_period=2024">Beyoncé</a>, <a href="https://www.fec.gov/data/disbursements/?data_type=processed&amp;committee_id=C00703975&amp;recipient_name=Shady+Records&amp;recipient_name=eminem&amp;two_year_transaction_period=2024&amp;disbursement_description=marshall+mathers">Eminem</a>, <a href="https://www.fec.gov/data/disbursements/?data_type=processed&amp;committee_id=C00703975&amp;recipient_name=Hot+Girl+Productions&amp;recipient_name=megan+pete&amp;recipient_name=megan+thee+stallion&amp;two_year_transaction_period=2024">Megan Thee Stallion</a>, <a href="https://www.fec.gov/data/disbursements/?data_type=processed&amp;committee_id=C00703975&amp;recipient_name=Big+Grrrl+Big+Touring&amp;recipient_name=lizzo&amp;recipient_name=melissa+jefferson&amp;two_year_transaction_period=2024">Lizzo</a>, or their production companies, anything. </p>
+
+
+
+<p>We asked the Harris campaign about these claims regarding the endorsements, but we haven&#8217;t received a response.</p>
+
+
+
+<p>Claims about paid celebrity endorsements have been circulating in the weeks leading up to and following the election. On Nov. 14, rapper Cardi B responded on X to the claim that she was paid for <a href="https://www.usatoday.com/story/entertainment/celebrities/2024/11/02/cardi-b-kamala-harris-milwaukee-rally-speech/76009614007/">her endorsement</a> of Harris, <a href="https://perma.cc/EW3J-9GJJ">writing</a>, &#8220;I didn&#8217;t get paid a dollar.&#8221;</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note:&nbsp;</em><em><a href="http://factcheck.org/" target="_blank" rel="noreferrer noopener">FactCheck.org</a></em><em>&nbsp;is one of several organizations&nbsp;</em><em><a href="http://www.annenbergpublicpolicycenter.org/factcheck-org-to-work-with-facebook-on-exposing-viral-fake-news/" target="_blank" rel="noreferrer noopener">working with Facebook</a></em><em>&nbsp;to debunk misinformation shared on social media. Our previous stories can be found&nbsp;</em><em><a href="https://www.factcheck.org/fake-news/" target="_blank" rel="noreferrer noopener">here</a></em><em>. Facebook has&nbsp;</em><em><a href="https://www.factcheck.org/2017/07/debunking-fake-news/" target="_blank" rel="noreferrer noopener">no control</a></em><em>&nbsp;over our editorial content.</em></p>
+
+
+
+<h2 class="wp-block-heading">Sources </h2>
+
+
+
+<p>Breuninger, Kevin. &#8220;<a href="https://www.cnbc.com/2024/08/21/oprah-winfrey-harris-dnc.html">Oprah Winfrey endorses Kamala Harris, saying she represents &#8216;the best of America</a>.'&#8221; CNBC. 21 Aug 2024.</p>
+
+
+
+<p>Cappelletti, Joey. &#8220;<a href="https://time.com/7096316/eminem-barack-obama-kamala-harris-campaign-detroit-michigan/">At Detroit Rally for Kamala Harris, Eminem Endorses and Obama Reps</a>.&#8221; Time. 23 Oct 2024.</p>
+
+
+
+<p>Epstein, Reid J., et al. “<a href="https://www.nytimes.com/2024/10/26/us/politics/harris-beyonce-rally-houston.html" target="_blank" rel="noreferrer noopener">Beyoncé Rallies for Harris in Houston With a Message for the Battlegrounds</a>.” New York Times. 26 Oct 2024.</p>
+
+
+
+<p>Gore, D’Angelo. “<a href="https://www.factcheck.org/2024/09/league-of-conservation-voters-4/" target="_blank" rel="noreferrer noopener">League of Conservation Voters</a>.” FactCheck.org. 5 Sep 2024.</p>
+
+
+
+<p>Korecki, Natasha. &#8220;<a href="https://www.nbcnews.com/politics/kamala-harris/clashes-confusion-secrecy-consume-harris-campaign-finances-rcna179654">Clashes, confusion and secrecy consume the Harris campaign&#8217;s finances</a>.&#8221; NBC. 14 Nov 2024. </p>
+
+
+
+<p>Levy, Piet, and Jay Stahl. &#8220;<a href="https://www.usatoday.com/story/entertainment/celebrities/2024/11/02/cardi-b-kamala-harris-milwaukee-rally-speech/76009614007/">Cardi B supports Kamala Harris at campaign rally in Wisconsin: &#8216;Ready to make history?</a>&#8216;&#8221; USA Today. 2 Nov 2024. </p>
+
+
+
+<p>Moorman, Taijuan, and KiMi Robinson. &#8220;<a href="https://www.usatoday.com/story/entertainment/celebrities/2024/07/30/megan-thee-stallion-kamala-harris-campaign-rally/74599637007/">Megan Thee Stallion performs &#8216;Savage&#8217; at Kamala Harris rally: &#8216;Hotties for Harris</a>.'&#8221; USA Today. 30 Jul 2024. </p>
+
+
+
+<p>Nicholas, Peter, and Dareh Gregorian. “<a href="https://www.nbcnews.com/politics/2024-election/president-joe-biden-drops-2024-presidential-race-rcna159867" target="_blank" rel="noreferrer noopener">President Joe Biden drops out of 2024 presidential race</a>.” NBC. 21 Jul 2024.</p>
+
+
+
+<p>Nichols, Anna Liz. &#8220;<a href="https://alabamareflector.com/2024/10/20/its-about-damn-time-to-elect-harris-as-president-lizzo-says/">&#8216;It&#8217;s about damn time&#8217; to elect Harris as president, Lizzo says</a>.&#8221; Alabama Reflector. 20 Oct 2024. </p>
+
+
+
+<p>Vakil, Caroline. &#8220;<a href="https://thehill.com/homenews/campaign/4986673-democratic-dnc-member-criticizes-harris-campaign/">DNC critic sparks discussions about what went wrong for Harris</a>.&#8221; The Hill. 13 Nov 2024. </p>
+
+
+
+<p>Zinsner, Hadleigh. &#8220;<a href="https://www.factcheck.org/2024/10/posts-make-unfounded-claim-about-beyonces-endorsement-of-harris/">Posts Make Unfounded Claim About Beyoncé’s Endorsement of Harris</a>.&#8221; FactCheck.org. 31 Oct 2024. </p>
+<p>The post <a href="https://www.factcheck.org/2024/11/no-evidence-harris-campaign-paid-for-celebrity-endorsements/">No Evidence Harris Campaign Paid for Celebrity Endorsements</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Can Trump Serve a Third Term?</title>
+		<link>https://www.factcheck.org/2024/11/can-trump-serve-a-third-term/</link>
+		
+		<dc:creator><![CDATA[Eugene Kiely]]></dc:creator>
+		<pubDate>Fri, 15 Nov 2024 20:23:48 +0000</pubDate>
+				<category><![CDATA[FactCheck Posts]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264468</guid>
+
+					<description><![CDATA[<p><img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Trump-at-House-GOP-Conference.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" srcset="https://cdn.factcheck.org/UploadedFiles/Trump-at-House-GOP-Conference.png 720w, https://cdn.factcheck.org/UploadedFiles/Trump-at-House-GOP-Conference-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />President-elect Donald Trump, who will return to office for a second term on Jan. 20, 2025, recently reignited a constitutional debate about whether a twice-elected president can serve a third term.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/can-trump-serve-a-third-term/">Can Trump Serve a Third Term?</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Trump-at-House-GOP-Conference.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/Trump-at-House-GOP-Conference.png 720w, https://cdn.factcheck.org/UploadedFiles/Trump-at-House-GOP-Conference-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><em>Este artículo estará disponible en español <a href="https://eltiempolatino.com/author/factcheck/" target="_blank" rel="noreferrer noopener">en El Tiempo Latino</a>.</em></p>
+
+
+
+<p>President-elect Donald Trump, who will return to office for a second term on Jan. 20, 2025, recently reignited a constitutional debate about whether a twice-elected president can serve a third term.</p>
+
+
+
+<p>&#8220;I suspect I won’t be running again unless you say, &#8216;He’s so good, we’ve got to figure something else out,'&#8221; Trump <a href="https://www.nytimes.com/2024/11/13/us/politics/trump-house-elon-musk.html" target="_blank" rel="noreferrer noopener">told</a> House Republicans on Nov. 13, perhaps jokingly.</p>
+
+
+
+<p>The <a href="https://constitution.congress.gov/constitution/amendment-22/">22nd Amendment</a>, which was <a href="https://www.reaganlibrary.gov/constitutional-amendments-amendment-22-term-limits-presidency" target="_blank" rel="noreferrer noopener">ratified</a> in 1951, states that &#8220;[n]o person shall be elected to the office of the President more than twice.&#8221; The amendment was spurred by <a href="https://www.whitehouse.gov/about-the-white-house/presidents/franklin-d-roosevelt/" target="_blank" rel="noreferrer noopener">President Franklin D. Roosevelt</a>, who was elected president an unprecedented four times, the nonpartisan Congressional Research Service said in a <a href="https://crsreports.congress.gov/product/pdf/R/R40864" target="_blank" rel="noreferrer noopener">2019 report</a>.</p>
+
+
+
+<p>The 22nd Amendment would block Trump, who at 78 is the <a href="https://web.archive.org/web/20241114031721/https://apnews.com/article/trump-harris-presidential-election-age-health-medical-records-7bb8212c1024748371e43b85e137bae5" target="_blank" rel="noreferrer noopener">oldest person</a> to be elected president in U.S. history, from running for a third term &#8212; unless it was repealed, which is highly unlikely.</p>
+
+
+
+<p>&#8220;I don’t think there’s any realistic possibility that the 22nd Amendment could be repealed,&#8221; <a href="https://kermitroosevelt.net/about/" target="_blank" rel="noreferrer noopener">Kermit Roosevelt</a>, a constitutional law professor at the University of Pennsylvania and great-great-grandson of President Theodore Roosevelt, told us in an email. &#8220;That would take another amendment (like the 21st, repealing the 18th) and I don’t think it would get 2/3 of both houses of congress, much less 3/4 of the states.&#8221;</p>
+
+
+
+<p>To <a href="https://www.archives.gov/federal-register/constitution" target="_blank" rel="noreferrer noopener">add an amendment</a> to the Constitution, the House and the Senate both need to approve a joint resolution with a two-thirds majority, and then 75% of the states must ratify the amendment. The 18th Amendment, which ushered in the <a href="https://guides.loc.gov/this-month-in-business-history/january/prohibition">Prohibition Era</a>, is the only amendment ever to be <a href="https://constitutioncenter.org/the-constitution/amendments/amendment-xxi/interpretations/151" target="_blank" rel="noreferrer noopener">repealed</a>.</p>
+
+
+
+<p>But, as the CRS stated in a <a href="https://www.whitehousetransitionproject.org/wp-content/uploads/2016/04/Terms-Tenure_101909-1.pdf" target="_blank" rel="noreferrer noopener">2009 report</a>, there has been a debate &#8220;as to whether the 22nd Amendment is an absolute limit on service as President.&#8221; While it is clear that a person cannot be <em>elected</em> to a third term, whether a twice-elected president can <em>serve</em> a third term as president or acting president is an unresolved constitutional question, the CRS report said. (Emphasis is ours.)</p>
+
+
+
+<p>&#8220;[L]egal scholars Bruce Peabody and Scott Gant asserted in a 1999 article that a former President could also succeed to the presidency, or be &#8216;acting President&#8217; from the wide range of positions covered in the Presidential Succession Act,&#8221; the 2019 CRS report said. &#8220;By their reasoning, a former President serving as Speaker of the House, President pro tempore of the Senate, or as a Cabinet officer would also be able to assume the office of President or act as President under the &#8216;service vs. election&#8217; interpretation of the Twenty-Second Amendment.&#8221;</p>
+
+
+
+<p>Under the <a href="https://www.usa.gov/presidential-succession">Presidential Succession Act</a>, the vice president is the first of 18 people in line to replace a president who dies, resigns or is otherwise unable to hold office. The House speaker is second in line, and it is worth noting, the Republicans <a href="https://apnews.com/article/republicans-house-elections-e3754a684a7b96b129841d4b207c15e9" target="_blank" rel="noreferrer noopener">retained control</a> of the House after the 2024 election. (Trump <a href="https://www.nbcnews.com/politics/donald-trump/trump-not-ruling-new-house-speaker-rcna118794" target="_blank" rel="noreferrer noopener">entertained</a> the thought of become House speaker last year when the House Republicans were divided on who should replace deposed House Speaker Kevin McCarthy.)</p>
+
+
+
+<p>Peabody and Gant wrote the <a href="https://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1908&amp;context=mlr" target="_blank" rel="noreferrer noopener">1999 article</a> for the Minnesota Law Review at a time when then-President Bill Clinton was nearing the completion of his second term. &#8220;It appears to be a commonly held view that when Bill Clinton&#8217;s second term expires, he will be constitutionally prohibited from serving again as President of the United States. This, we believe, is decidedly incorrect,&#8221; they wrote.</p>
+
+
+
+<p>&#8220;While there is plenty of debate on the matter, the language of the 22nd Amendment talks only about limiting who &#8216;shall be <em>elected</em> to the office of the President&#8217; (emphasis added),&#8221; Peabody, a <a href="https://www.fdu.edu/profiles/bruce_peabody/" target="_blank" rel="noreferrer noopener">professor of government and politics</a> at Fairleigh Dickinson University in New Jersey, told us in an email. &#8220;In my analysis, therefore, the 22nd Amendment does not prohibit a person from becoming or acting as president so long as this person is not elected to a third term as president.&#8221;</p>
+
+
+
+<p>Peabody also told us in an email that a twice-elected president could run for vice president and serve as president if the president dies, resigns or is removed from office. </p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>Peabody, email to FactCheck.org, Nov. 15:</strong> There are actually five fairly clear scenarios through which a twice-elected president could again become or act as president:</p>
+
+
+
+<p>Such a person could[:]</p>
+
+
+
+<p>(1) serve as Vice President and then become President in the case of removal, death or resignation of the President</p>
+
+
+
+<p>(2) serve as Vice President and then act as President during a period in which the President is unable to discharge the powers and duties of the Office, as authorized by (a) a written declaration from the President him or herself, or (b) through the VP and a &#8220;majority of either the principal officers of the executive departments&#8221; or some other authorized body indicating that the President is disabled/unable to discharge the duties of the office (25th Amendment)</p>
+
+
+
+<p>(3) become Vice President-elect and then President if &#8220;at the time fixed for the beginning of the term of the President, the President-elect shall have died&#8221; (20th Amendment)</p>
+
+
+
+<p>(4) become Vice President-elect and then act as President if &#8220;a President shall not have been chosen before the time fixed for the beginning of [the] term, or if the President-elect shall have failed to qualify&#8221; (20th Amendment)</p>
+
+
+
+<p>(5) act as President under circumstances provided for by the Succession Act of 1947 which kicks in [when] both the President and the VP are unable to discharge their duties</p>
+</blockquote>
+
+
+
+<p>Roosevelt, the University of Pennsylvania law professor, said any attempt to circumvent the 22nd Amendment in those ways would be challenged in court. &#8220;I think the odds of that [being successful] are extremely low,&#8221; he said.</p>
+
+
+
+<p>&#8220;Obviously the concern the 22nd Amendment is addressing is that someone who serves more than two terms as president might accumulate too much power,&#8221; Roosevelt said. &#8220;That concern has nothing to do with how the person takes office the third (or fourth, or fifth) time.&#8221;</p>
+
+
+
+<p>Why, then, does the 22nd Amendment say &#8220;be elected&#8221; instead of &#8220;serve&#8221;?</p>
+
+
+
+<p>&#8220;[T]he answer is probably that the only other way to become president is by moving through the vice-presidency and they thought the 12th Amendment took care of that,&#8221; Roosevelt said. </p>
+
+
+
+<p>The <a href="https://constitution.congress.gov/constitution/amendment-12/" target="_blank" rel="noreferrer noopener">12th Amendment</a>, which was ratified in 1804, appears to disqualify a two-term president from being vice president. It extended the qualifications for presidents, such as age and residency requirements, to the vice presidency. It also states that &#8220;no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.&#8221;</p>
+
+
+
+<p>Peabody interprets the 12th Amendment more narrowly than Roosevelt. </p>
+
+
+
+<p>&#8220;The most obvious reading of this provision is that it applies to the Article II language discussing eligibility: &#8216;No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.&#8217; Someone who is not a &#8216;natural born Citizen&#8217; or someone who is 34 can&#8217;t come in the &#8216;back door&#8217; by being, say, a VP and then becoming president,&#8221; Peabody said. </p>
+
+
+
+<p>&#8220;But, in my view, those are the only &#8216;eligibility&#8217; restrictions mentioned in the Constitution. And, of course, Mr. Trump meets the Article II eligibility language,&#8221; he added. &#8220;Bottom line: A plausible reading of the Constitution is that Trump could serve out his second term and still become or act as president through one of the scenarios described above.&#8221;</p>
+
+
+
+<p>The 2009 CRS report weighed both of these arguments and concluded, &#8220;It seems unlikely that this question will be answered conclusively barring an actual occurrence of the as-yet hypothetical situation.&#8221;</p>
+
+
+
+<p>At least one Democrat wants to prevent such an occurrence. Rep. Dan Goldman of New York has said he would introduce a House resolution barring Trump from serving more than two terms. NBC News, which obtained a copy of the resolution, <a href="https://perma.cc/66F9-WZB7">wrote</a> that it &#8220;reaffirms that the 22nd Amendment &#8216;applies to two terms in the aggregate as President of the United States&#8217; and reaffirms that it &#8216;applies to President-elect Trump.'&#8221;</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note: FactCheck.org does not accept advertising. We rely on grants and individual donations from people like you. Please consider a donation. Credit card donations may be made through <a href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" target="_blank" rel="noreferrer noopener">our “Donate” page</a>. If you prefer to give by check, send to: FactCheck.org, Annenberg Public Policy Center, 202 S. 36th St., Philadelphia, PA 19104. </em></p>
+
+
+
+<p></p>
+<p>The post <a href="https://www.factcheck.org/2024/11/can-trump-serve-a-third-term/">Can Trump Serve a Third Term?</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Musk Did Not Ban Stephen King from X, Contrary to Online Claims</title>
+		<link>https://www.factcheck.org/2024/11/musk-did-not-ban-stephen-king-from-x-contrary-to-online-claims/</link>
+		
+		<dc:creator><![CDATA[Uzma Afreen]]></dc:creator>
+		<pubDate>Wed, 13 Nov 2024 16:24:00 +0000</pubDate>
+				<category><![CDATA[Debunking Viral Claims]]></category>
+		<category><![CDATA[FactCheck Posts]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264346</guid>
+
+					<description><![CDATA[<p><img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Musk-King-720-x-307.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/Musk-King-720-x-307.png 720w, https://cdn.factcheck.org/UploadedFiles/Musk-King-720-x-307-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />Social media posts falsely claim that Elon Musk banned author Stephen King from X, the social media platform owned by Musk. The rumor that King was banned originated on a satirical website. King's X account remains active, and he used it on Nov. 13 to debunk the claim.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/musk-did-not-ban-stephen-king-from-x-contrary-to-online-claims/">Musk Did Not Ban Stephen King from X, Contrary to Online Claims</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Musk-King-720-x-307.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/Musk-King-720-x-307.png 720w, https://cdn.factcheck.org/UploadedFiles/Musk-King-720-x-307-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><em>Para leer en español, vea <a href="https://eltiempolatino.com/2024/11/13/nacional/stephen-king-x-elon-musk/" target="_blank" rel="noreferrer noopener">esta traducción</a> de El Tiempo Latino.</em></p>
+
+
+
+<h2 class="wp-block-heading">Quick Take</h2>
+
+
+
+<p>Social media posts falsely claim that Elon Musk banned author Stephen King from X, the social media platform owned by Musk. The rumor that King was banned originated on a satirical website.<strong> </strong>King&#8217;s X account remains active, and he used it on Nov. 13 to debunk the claim.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Full Story</h2>
+
+
+
+<p>While Vice President Kamala Harris drew support from <a href="https://archive.is/nLhVk" target="_blank" rel="noreferrer noopener">progressive celebrities</a> during her campaign, President-elect Donald Trump had the support of conservative figures, <a href="https://archive.is/V1GzZ" target="_blank" rel="noreferrer noopener">including Elon Musk, </a>the CEO of Tesla and SpaceX and owner of the social media platform X.</p>
+
+
+
+<p>Musk’s support of Trump has frequently <a href="https://perma.cc/7XUX-DTC4">drawn the fire </a>of author Stephen King, a <a href="https://archive.is/UWltL" target="_blank" rel="noreferrer noopener">longtime</a> <a href="https://perma.cc/J7UY-KAHG" target="_blank" rel="noreferrer noopener">critic of Trump.</a> Recently, social media posts falsely claimed Musk banned King from X after the author insulted him online.</p>
+
+
+
+<p><a href="https://perma.cc/8EKF-ZHYN" target="_blank" rel="noreferrer noopener">A Nov. 10 Threads post</a> showed photos of Musk and King, with text that claimed, &#8220;Elon Musk Bans Stephen King Permanently From Platform X After He Trolled the Tech Mogul.&#8221;</p>
+
+
+
+<p>Many of the social media posts baselessly claimed Musk had banned King from X after the author allegedly called him “The First Lady.” <a href="https://perma.cc/65WJ-6FW6" target="_blank" rel="noreferrer noopener">Posts on Threads</a> mocked Musk for allegedly silencing his critic, with <a href="https://perma.cc/NG6E-CRUB" target="_blank" rel="noreferrer noopener">one reading</a>, “So Stephen King was permanently banned from Twitter for calling Mr. Free Speech himself Elon Musk, ‘The First Lady.’ That’s funny.”</p>
+
+
+
+<p>But King has not been exiled from X; his account is still active. King responded to the claim on a <a href="https://perma.cc/ZL2E-GMMZ" target="_blank" rel="noreferrer noopener">Nov. 13 post on X,</a> saying, &#8220;I see there&#8217;s a rumor going around that I called the Musk-man Trump&#8217;s new first lady. I didn&#8217;t, but only because I didn&#8217;t think of it. There&#8217;s also a rumor going around that Muskie kicked me off Twitter. Yet here I am.&#8221;</p>
+
+
+
+<p>The claim that King had been banned from the platform seems to have stemmed from a <a href="https://archive.is/MFioe" target="_blank" rel="noreferrer noopener">satirical article </a>posted in July on the website <a href="https://esspots.com/about-us/" target="_blank" rel="noreferrer noopener">Esspots</a>, with the headline, &#8220;Elon Musk Bans Stephen King Permanently From Platform X After He Trolled the Tech Mogul.&#8221; The site had labeled it satire — a detail lost on many who reshared it as fact. </p>
+
+
+
+<p>Esspots is a subsidiary of the satire website <a href="https://perma.cc/C7U9-VA8Z" target="_blank" rel="noreferrer noopener">SpaceXMania</a>, which &#8220;orbits around Elon Musk.&#8221; SpaceXMania doesn’t disclose publisher information on its website, but the <a href="https://nytimes.com/2024/06/13/technology/facebook-fake-news-culture-wars.html" target="_blank" rel="noreferrer noopener">New York Times reported</a> that the site&#8217;s operator is based in Pakistan. The link was shared by the Facebook handle <a href="https://archive.is/x6K5N" target="_blank" rel="noreferrer noopener">SpaceX Fanclub</a>, which also noted that it was satire.</p>
+
+
+
+<p>King, who has a history of criticizing Musk, has been the subject of previous rumors that he left the platform. In January 2023, King <a href="https://perma.cc/YSA7-7JM7" target="_blank" rel="noreferrer noopener">wrote on X</a>: “There are persistent rumors that I have left Twitter. I have not. I may do so eventually, there are many things about the Musk iteration of the site that I don’t care for, but that day is not today. You don’t fix a thing by leaving it.”</p>
+
+
+
+<p>King has <a href="https://perma.cc/4S8K-CJ6B" target="_blank" rel="noreferrer noopener">trolled Musk</a> over his political leanings and pro-Trump posts on X. <a href="https://perma.cc/7XUX-DTC4" target="_blank" rel="noreferrer noopener">On Nov. 3</a>, King wrote, “The Musk-man has posted 3,000 times on Twitter in the last month. Most are pro-Trump disinformation and outright lies. Remember, he has skin in the game. Consider his posts accordingly.”</p>
+
+
+
+<p>Earlier this year, King also suggested that President Joe Biden should step aside in favor of a new Democratic candidate, <a href="https://perma.cc/K27L-8MNS" target="_blank" rel="noreferrer noopener">prompting Musk</a> to reply, “Even Stephen King is voting for Trump!” That, too, isn’t true. King&nbsp;<a href="https://x.com/StephenKing/status/1853567110766645381" target="_blank" rel="noreferrer noopener">supported</a>&nbsp;Harris.</p>
+
+
+
+<p><em>Update, Nov. 15: King <a href="https://perma.cc/DR9B-2UDL" target="_blank" rel="noreferrer noopener">announced</a> on Nov. 14 that he was leaving X, saying &#8220;the atmosphere has just become too toxic.&#8221; He invited his X followers to <a href="https://www.threads.net/@stephenking" target="_blank" rel="noreferrer noopener">follow him on Threads</a>.</em></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note:&nbsp;<a href="http://factcheck.org/" target="_blank" rel="noreferrer noopener">FactCheck.org</a>&nbsp;is one of several organizations&nbsp;<a href="http://www.annenbergpublicpolicycenter.org/factcheck-org-to-work-with-facebook-on-exposing-viral-fake-news/" target="_blank" rel="noreferrer noopener">working with Facebook</a>&nbsp;to debunk misinformation shared on social media. Our previous stories can be found&nbsp;<a href="https://www.factcheck.org/fake-news/" target="_blank" rel="noreferrer noopener">here</a>. Facebook has&nbsp;<a href="https://www.factcheck.org/2017/07/debunking-fake-news/" target="_blank" rel="noreferrer noopener">no control</a>&nbsp;over our editorial content.</em></p>
+
+
+
+<h2 class="wp-block-heading">Sources</h2>
+
+
+
+<p>Collins, Kaitlin. <a href="https://archive.is/V1GzZ" target="_blank" rel="noreferrer noopener">&#8220;Elon Musk exerts deepening influence on Donald Trump&#8217;s presidential transition.&#8221;</a> CNN. 10 Nov 2024.</p>
+
+
+
+<p>Gomez, Dessi and Tom Tapp. &#8220;<a href="https://archive.is/dWlHc" target="_blank" rel="noreferrer noopener">Trump Celebrity Endorsements: A List Of Celebrities Supporting The Ex-POTUS.</a>&#8221; Deadline. 5 Nov 2024.</p>
+
+
+
+<p>Kurtz, Judy and Amie Parnes. &#8220;<a href="https://archive.is/k4eSv" target="_blank" rel="noreferrer noopener">A-list celebrity endorsements boomerang on Harris, Democrats</a>.&#8221; The Hill. 9 Nov 2024.</p>
+
+
+
+<p>Ramachandrian, Naman. <a href="https://archive.is/UWltL" target="_blank" rel="noreferrer noopener">&#8220;&#8216;Trump Was a Horrible President and Is a Horrible Person,&#8217; Says Stephen King.&#8221;</a> Variety. 15 Aug 2022.</p>
+
+
+
+<p>Specter, Emma. <a href="https://archive.is/nLhVk" target="_blank" rel="noreferrer noopener">&#8220;From the Obamas to Charli XCX, 16 Celebrities Who Have Endorsed Kamala Harris for President.&#8221; </a>Vogue. 24 Jul 2024.</p>
+
+
+
+<p>Stephen King (@StephenKing). <a href="https://perma.cc/ZL2E-GMMZ" target="_blank" rel="noreferrer noopener">&#8220;I see there&#8217;s a rumor going around that I called the Musk-man Trump&#8217;s new first lady. I didn&#8217;t, but only because I didn&#8217;t think of it. There&#8217;s also a rumor going around that Muskie kicked me off Twitter. Yet here I am.</a>&#8221; X. 13 Nov 2024.</p>
+
+
+
+<p>Stephen King (@StephenKing). &#8220;<a href="https://perma.cc/YSA7-7JM7" target="_blank" rel="noreferrer noopener">There are persistent rumors that I have left Twitter. I have not. I may do so eventually; there are many things about the Musk iteration of the site that I don’t care for, but that day is not today. You don’t fix a thing by leaving it</a>.” X. 8 Jan 2023.</p>
+
+
+
+<p>Thompson, Stuart A. &#8220;<a href="https://www.nytimes.com/2024/06/13/technology/facebook-fake-news-culture-wars.html" target="_blank" rel="noreferrer noopener">Fake News Still Has a Home on Facebook.</a>&#8221; New York Times. 13 Jun 2024.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/musk-did-not-ban-stephen-king-from-x-contrary-to-online-claims/">Musk Did Not Ban Stephen King from X, Contrary to Online Claims</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Posts Falsely Claim CBS News Reported &#8216;Cheating&#8217; in Election</title>
+		<link>https://www.factcheck.org/2024/11/posts-falsely-claim-cbs-news-reported-cheating-in-election/</link>
+		
+		<dc:creator><![CDATA[Danielle McLean]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2024 22:20:32 +0000</pubDate>
+				<category><![CDATA[Debunking Viral Claims]]></category>
+		<category><![CDATA[FactCheck Posts]]></category>
+		<category><![CDATA[2024 elections]]></category>
+		<category><![CDATA[Presidential Election 2024]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264327</guid>
+
+					<description><![CDATA[<p><img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/CBS-Cheating-Final-720-x-307.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/CBS-Cheating-Final-720-x-307.png 720w, https://cdn.factcheck.org/UploadedFiles/CBS-Cheating-Final-720-x-307-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />Some social media posts falsely claimed that CBS News reported there was "cheating" in the 2024 presidential election that benefitted President-elect Donald Trump. We found no evidence of such a report, and a CBS News spokesperson said the outlet "did not report or say there was cheating in the election."</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/posts-falsely-claim-cbs-news-reported-cheating-in-election/">Posts Falsely Claim CBS News Reported &#8216;Cheating&#8217; in Election</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/CBS-Cheating-Final-720-x-307.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/CBS-Cheating-Final-720-x-307.png 720w, https://cdn.factcheck.org/UploadedFiles/CBS-Cheating-Final-720-x-307-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><em>Para leer en español, vea <a href="https://eltiempolatino.com/2024/11/14/politica-comunidad-latino/cbs-news-elecciones/" target="_blank" rel="noreferrer noopener">esta traducción</a> de El Tiempo Latino.</em></p>
+
+
+
+<h2 class="wp-block-heading">Quick Take</h2>
+
+
+
+<p>Some social media posts falsely claimed that CBS News reported there was &#8220;cheating&#8221; in the 2024 presidential election that benefitted President-elect Donald Trump. We found no evidence of such a report, and a CBS News spokesperson said the outlet &#8220;did not report or say there was cheating in the election.&#8221;</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Full Story</h2>
+
+
+
+<p><a href="https://apnews.com/projects/election-results-2024/" target="_blank" rel="noreferrer noopener">The 2024 presidential election</a> was called for Donald Trump on Nov. 6, with the president-elect winning 312 electoral votes and Vice President Kamala Harris receiving 226. The elections also saw Republicans regain control of the Senate and likely keep control of the House of Representatives, although <a href="https://perma.cc/R3CB-RGDU" target="_blank" rel="noreferrer noopener">several congressional districts</a> have yet to be decided as of Nov. 12.</p>
+
+
+
+<p>But social media posts, falsely citing CBS News, have made unfounded claims that the presidential election outcome may have been the result of cheating.&nbsp;</p>
+
+
+
+<p>A Nov. 10 <a href="https://perma.cc/2F8H-35JW" target="_blank" rel="noreferrer noopener">post on Threads</a> claimed, “CBS is reporting cheating in the election. If the accusations are true. There could be a recount. This will change everything. Let’s cross our fingers!”</p>
+
+
+
+<p><a href="https://perma.cc/E88S-FJ5V" target="_blank" rel="noreferrer noopener">A similar post on X</a> on Nov. 6 said, “CBS News is currently accusing Donald Trump of cheating his victory over the 2024 Presidential Election.” As of Nov. 11, the post was viewed 2.7 million times and received 43,000 likes, according to the platform.&nbsp;</p>
+
+
+
+<p>We couldn&#8217;t find any stories posted by CBS News on its <a href="https://www.cbsnews.com/" target="_blank" rel="noreferrer noopener">website</a>, <a href="https://x.com/CBSNews" target="_blank" rel="noreferrer noopener">X account</a>, or its <a href="https://www.threads.net/@cbsnews" target="_blank" rel="noreferrer noopener">Threads account</a> that reported cheating during the elections.&nbsp;</p>
+
+
+
+<p>CBS News spokesperson Hugo Rojo told us in an emailed statement, “CBS News did not report or say there was cheating in the election.”</p>
+
+
+
+<p>While there was no evidence of cheating, there was a considerable amount of disinformation before, during and after the elections.&nbsp;</p>
+
+
+
+<p>CBS News&nbsp;<a href="https://www.cbsnews.com/news/2024-election-misinformation-fbi-fake-videos/?ftag=CNM-00-10aab6a&amp;linkId=643784641" target="_blank" rel="noreferrer noopener">reported on Nov. 5</a>, Election Day, that&nbsp;<a href="https://www.fbi.gov/news/press-releases/fbi-statement-on-inauthentic-use-of-bureau-name-and-insignia" target="_blank" rel="noreferrer noopener">the FBI warned</a>&nbsp;of&nbsp;fabricated&nbsp;videos&nbsp;using the agency’s name and insignia, including one that alleged&nbsp;voter fraud&nbsp;at prisons in three swing states. &#8220;The videos were likely created by the same Russian disinformation group that released two additional&nbsp;fabricated&nbsp;FBI videos in recent days, according to&nbsp;Antibot4Navalny, a collective of researchers that tracks online Russian disinformation,&#8221; CBS News reported.</p>
+
+
+
+<p>Trump has repeatedly made <a href="https://www.factcheck.org/2020/11/trump-repeats-baseless-false-claims-about-the-election/" target="_blank" rel="noreferrer noopener">baseless, false and misleading claims</a> that the 2020 presidential election was “rigged,” citing conspiracies involving the Department of Justice, Dominion Voting Systems and local election officials, among others. State and federal judges repeatedly rejected Trump’s claims, saying the Trump legal team provided no evidence of fraud.&nbsp;</p>
+
+
+
+<p>On Election Day this year, while the polls were still open, Trump once again posted unfounded claims on social media about “massive CHEATING” in Philadelphia, adding &#8220;Law Enforcement coming!!!&#8221; <a href="https://www.factcheck.org/2024/11/trump-makes-unsupported-claim-about-massive-cheating-in-philadelphia/" target="_blank" rel="noreferrer noopener">As we wrote,</a> city and state officials, including the Philadelphia district attorney, city commissioner and the Pennsylvania Department of State, denied any allegations of election impropriety. The Philadelphia Police Department also <a href="https://perma.cc/NTX8-GMC7" target="_blank" rel="noreferrer noopener">told CNN</a> they were not aware of any election-related issues that had prompted a law enforcement response.&nbsp;</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note:&nbsp;<a href="http://factcheck.org/" target="_blank" rel="noreferrer noopener">FactCheck.org</a>&nbsp;is one of several organizations&nbsp;<a href="http://www.annenbergpublicpolicycenter.org/factcheck-org-to-work-with-facebook-on-exposing-viral-fake-news/" target="_blank" rel="noreferrer noopener">working with Facebook</a>&nbsp;to debunk misinformation shared on social media. Our previous stories can be found&nbsp;<a href="https://www.factcheck.org/fake-news/" target="_blank" rel="noreferrer noopener">here</a>. Facebook has&nbsp;<a href="https://www.factcheck.org/2017/07/debunking-fake-news/" target="_blank" rel="noreferrer noopener">no control</a>&nbsp;over our editorial content.</em></p>
+
+
+
+<h2 class="wp-block-heading">Sources</h2>
+
+
+
+<p>Associated Press. “<a href="https://apnews.com/projects/election-results-2024/">2024 Presidential Election Results</a>.” Accessed 11 Nov 2024.&nbsp;</p>
+
+
+
+<p>CBS News. “<a href="https://www.cbsnews.com/">Homepage</a>.” Accessed 11 Nov 2024.&nbsp;</p>
+
+
+
+<p>Rojo, Hugo, Spokesperson, CBS News. Email to FactCheck.org. 11 Nov 2024.&nbsp;</p>
+
+
+
+<p>Delzer, Erielle and Kerry Breen. “<a href="https://www.cbsnews.com/news/2024-election-misinformation-fbi-fake-videos/?ftag=CNM-00-10aab6a&amp;linkId=643784641">FBI warns that fake videos using its name, insignia are spreading election misinformation</a>.” CBS News. 5 Nov 2024.&nbsp;</p>
+
+
+
+<p>FBI. Press release. <a href="https://www.fbi.gov/news/press-releases/fbi-statement-on-inauthentic-use-of-bureau-name-and-insignia" target="_blank" rel="noreferrer noopener">&#8220;FBI Statement on Inauthentic Use of Bureau Name, Insignia in Promoting False Election-Related Narratives.&#8221;</a> 5 Nov 2024.</p>
+
+
+
+<p>@antibot4navalny. “<a href="https://x.com/antibot4navalny/status/1854246125588410848">None of the fake videos published by Matryoshka after the poll stations got closed were made with an assumption that any particular candidate won… Moreover, most were still seeking to target the voting… And all of them either used FBI branding or falsely quoted FBI as saying</a>.” X. 6 Nov 2024.&nbsp;</p>
+
+
+
+<p>McLean, Danielle. “<a href="https://www.factcheck.org/2024/10/post-misrepresents-impact-of-voter-registrations-delivered-to-maricopa-county/">Post Misrepresents Impact of Voter Registrations Delivered to Maricopa County</a>.” 15 Oct 2024.&nbsp;</p>
+
+
+
+<p>Quinn, Melissa.<a href="https://perma.cc/R3CB-RGDU" target="_blank" rel="noreferrer noopener"> &#8220;These 14 House seats are still undecided, with 2024 results outstanding a week after Election Day.&#8221;</a> CBS News. 12 Nov 2024.</p>
+
+
+
+<p>Robertson, Lori, et al. “<a href="https://www.factcheck.org/2020/11/trump-repeats-baseless-false-claims-about-the-election/">Trump Repeats Baseless, False Claims About the Election</a>.” FactCheck.org. 1 Dec 2020.&nbsp;</p>
+
+
+
+<p>Farley, Robert. “<a href="https://www.factcheck.org/2024/11/trump-makes-unsupported-claim-about-massive-cheating-in-philadelphia/">Trump Makes Unsupported Claim About ‘Massive CHEATING’ in Philadelphia</a>.” FactCheck.org. 5 Nov 2024.&nbsp;</p>
+
+
+
+<p>Lybrand, Holmes, et al. “<a href="https://perma.cc/NTX8-GMC7">Philadelphia authorities shut down claims of &#8220;massive CHEATING&#8221; Trump referenced in Truth Social post</a>.” CNN. 5 Nov 2024.&nbsp;</p>
+
+
+
+<p></p>
+<p>The post <a href="https://www.factcheck.org/2024/11/posts-falsely-claim-cbs-news-reported-cheating-in-election/">Posts Falsely Claim CBS News Reported &#8216;Cheating&#8217; in Election</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Both Sides Distort Incomplete Vote Counts to Falsely Suggest Election Fraud</title>
+		<link>https://www.factcheck.org/2024/11/both_sides_distort_incomplete_vote-counts_to_falsely_suggest_election_fraud/</link>
+		
+		<dc:creator><![CDATA[Saranac Hale Spencer]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2024 20:35:13 +0000</pubDate>
+				<category><![CDATA[Debunking Viral Claims]]></category>
+		<category><![CDATA[FactCheck Posts]]></category>
+		<category><![CDATA[2024 elections]]></category>
+		<category><![CDATA[Presidential Election 2024]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264313</guid>
+
+					<description><![CDATA[<p><img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Ivotedstickers.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/Ivotedstickers.jpg 720w, https://cdn.factcheck.org/UploadedFiles/Ivotedstickers-340x145.jpg 340w" sizes="(max-width: 640px) 100vw, 640px" />Ballots were still being counted in the days following the 2024 election, but a claim that there was a suspicious gap of 15 million to 20 million votes as compared with the 2020 election has been circulating on social media. There is no such large gap -- states were still counting their ballots -- and even if there are fewer votes for the Democratic candidate than there were four years ago, that doesn't prove fraud.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/both_sides_distort_incomplete_vote-counts_to_falsely_suggest_election_fraud/">Both Sides Distort Incomplete Vote Counts to Falsely Suggest Election Fraud</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Ivotedstickers.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/Ivotedstickers.jpg 720w, https://cdn.factcheck.org/UploadedFiles/Ivotedstickers-340x145.jpg 340w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><em>Para leer en español, vea <a href="https://eltiempolatino.com/2024/11/14/politica-comunidad-latino/conteos-de-votos-incompletos/" target="_blank" rel="noreferrer noopener">esta traducción</a> de El Tiempo Latino.</em></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Quick Take</strong></h2>
+
+
+
+<p>Ballots were still being counted in the days following the 2024 election, but a claim that there was a suspicious gap of 15 million to 20 million votes as compared with the 2020 election has been circulating on social media. There is no such large gap &#8212; states were still counting their ballots &#8212; and even if there are fewer votes for the Democratic candidate than there were four years ago, that doesn&#8217;t prove fraud.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading"><strong>Full Story</strong></h2>
+
+
+
+<p>President-elect Donald Trump has a history of making false <a href="https://www.factcheck.org/2017/01/trumps-bogus-voter-fraud-claims-revisited/" target="_blank" rel="noreferrer noopener">claims about voter fraud</a>. After he lost the 2020 election, Trump falsely blamed it on fraud, and he and his supporters have continued to <a href="https://www.bbc.com/news/articles/czj7eex29r3o" target="_blank" rel="noreferrer noopener">spread</a> <a href="https://www.forbes.com/sites/alisondurkee/2024/11/04/trumps-pennsylvania-fraud-claims-debunked-overseas-voter-challenges-latest-claims-spreading-in-battleground-state/" target="_blank" rel="noreferrer noopener">those</a> <a href="https://apnews.com/article/trump-2020-election-lies-debunked-4fc26546b07962fdbf9d66e739fbb50d" target="_blank" rel="noreferrer noopener">claims</a> for years.</p>
+
+
+
+<p>When returns in 2024 began to clearly favor Trump over Vice President Kamala Harris, though, <a href="https://www.nytimes.com/2024/11/06/technology/trump-election-denial.html" target="_blank" rel="noreferrer noopener">posts making claims about voter fraud slowed</a>, and accounts that had previously boosted the narrative that U.S. elections were beset with fraud quickly embraced the outcome.</p>
+
+
+
+<p>But social media posts are now using incomplete vote counts for the 2024 election to continue to claim that the 2020 election was fraudulent, while other, left-leaning accounts are posting similarly inaccurate claims suggesting that &#8220;missing&#8221; votes indicate fraud in this election.</p>
+
+
+
+<p>Early in the morning following Election Day, conservative influencer <a href="https://www.forbes.com/sites/maryroeloffs/2024/09/05/who-are-tim-pool-and-benny-johnson-what-to-know-about-the-six-right-wing-commentators-doj-alleges-were-funded-by-russia/" target="_blank" rel="noreferrer noopener">Benny Johnson</a> posted <a href="https://perma.cc/668V-B2GH" target="_blank" rel="noreferrer noopener">on X</a>, &#8220;Weird how +20 million Democrats just disappeared in a single election from 2020 to 2024[.] Super duper strange man[.] Joe Biden got 81 million votes Kamala got 60? Very Sus.&#8221;</p>
+
+
+
+<p>Four hours later, at about 8 a.m. on Nov. 6, <a href="https://www.factcheck.org/search/#gsc.tab=0&amp;gsc.q=zerohedge&amp;gsc.sort=" target="_blank" rel="noreferrer noopener">ZeroHedge</a> &#8212; a website that has a history of spreading misinformation &#8212; <a href="https://perma.cc/AL2J-TXRW" target="_blank" rel="noreferrer noopener">posted</a> on X a graph that appeared to show about 15 million more votes for the Democratic candidate in 2020 compared with the 2012, 2016 and 2024 elections.</p>
+
+
+
+<p>Another popular account called &#8220;DC_Draino,&#8221; which is run by the conservative influencer <a href="https://perma.cc/2R96-T3Z8" target="_blank" rel="noreferrer noopener">Rogan O’Handley</a>, posted the graph <a href="https://perma.cc/5KTX-QVPQ" target="_blank" rel="noreferrer noopener">on Instagram</a> later that day with this comment: &#8220;Boy did they pull a LOT of shenanigans in 2020. Thankfully we cleaned up our elections just enough to stop the steal in 2024.&#8221;</p>
+
+
+
+<p>O&#8217;Handley later followed up on that claim and <a href="https://perma.cc/4YRN-57R2" target="_blank" rel="noreferrer noopener">posted</a> side-by-side maps of California&#8217;s results by county in 2020 and 2024, suggesting that the maps indicated fraud, writing, &#8220;I think we found where some of those 16 million mystery Biden ballots were being laundered.&#8221;&nbsp;</p>
+
+
+
+<p>Those on the other side of the political spectrum <a href="https://perma.cc/E85Z-6WAZ" target="_blank" rel="noreferrer noopener">appear to</a> be circulating a different fraud claim, saying things <a href="https://perma.cc/F9KL-JEFU" target="_blank" rel="noreferrer noopener">such as</a>, &#8220;people that voted by mail are doing the Track My Vote thing, all 20 million that voted D that have reported so far say they were told they didn&#8217;t vote. Including my cousin and sister. Two different states. 20 million missing Democrat votes and Kamala is going to call trump at 4 pm today to concede?&#8221;</p>
+
+
+
+<p>But, really, there&#8217;s nothing nefarious going on. It&#8217;s just that not all of the ballots have been counted yet.</p>
+
+
+
+<p>In <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2012.pdf" target="_blank" rel="noreferrer noopener">2012</a>, Barack Obama won both the electoral and popular votes, receiving 66 million votes to Mitt Romney&#8217;s 61 million.</p>
+
+
+
+<p>In <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2016.pdf" target="_blank" rel="noreferrer noopener">2016</a>, Trump won the electoral college but lost the popular vote, receiving 63 million votes to Hillary Clinton&#8217;s 66 million.</p>
+
+
+
+<p>In <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf" target="_blank" rel="noreferrer noopener">2020</a>, which had <a href="https://www.census.gov/library/stories/2021/04/record-high-turnout-in-2020-general-election.html" target="_blank" rel="noreferrer noopener">record-high turnout</a>, Biden won both the electoral and popular votes, receiving 81 million votes to Trump&#8217;s 74 million.</p>
+
+
+
+<p>In 2024, not all the ballots have been counted yet.</p>
+
+
+
+<p>The morning after the election, Johnson had said that Harris got 60 million votes. But the total was 72.4 million for Harris as of the morning of Nov. 13, according to the <a href="https://perma.cc/9RQV-397K" target="_blank" rel="noreferrer noopener">Associated Press&#8217; tally</a>, which showed that all but two states have yet to count all of the ballots.<strong>&nbsp;</strong></p>
+
+
+
+<p>California, which O&#8217;Handley highlighted in his Nov. 7 <a href="https://perma.cc/4YRN-57R2">post</a>, still had millions of votes left to count on that day. On Nov. 8, as of about 5 p.m., the California secretary of state&#8217;s office <a href="https://perma.cc/K6B9-9SEU">estimated</a> there were about 5 million ballots left to process. There were still an estimated <a href="https://electionresults.sos.ca.gov/unprocessed-ballots-status">2.1 million votes</a> uncounted in California, as of Nov. 13.</p>
+
+
+
+<p>California, where some races for the House of Representatives haven&#8217;t yet been called a week after the election, takes a long time to count ballots. The New York Times <a href="https://www.nytimes.com/2024/11/11/us/california-ballot-count-house-election.html">explained</a> in a Nov. 11 story that the state deals with a lot of mail-in ballots, which are sent to every active, registered voter and take longer to process than in-person votes. California also <a href="https://www.sos.ca.gov/elections/voter-registration/vote-mail?os=">accepts</a> ballots up to seven days after Election Day as long as they are postmarked by Election Day.</p>
+
+
+
+<p>It&#8217;s also worth noting that Jen Easterly, director of the Cybersecurity and Infrastructure Security Agency, said in a <a href="https://perma.cc/Z8PU-2ZC8" target="_blank" rel="noreferrer noopener">statement</a> on Nov. 6 that in this election &#8220;we have no evidence of any malicious activity that had a material impact on the security or integrity of our election infrastructure.&#8221;</p>
+
+
+
+<p>&#8220;Now,&#8221; she said, &#8220;election officials will carry out their duty to certify the results and ensure that every eligible vote has been counted as cast.&#8221;</p>
+
+
+
+<p>After all the votes have been counted, it&#8217;s possible that more ballots were cast in 2020, and it&#8217;s likely that Harris will garner fewer votes than President Joe Biden did four years ago. But that&#8217;s not evidence of fraud; in fact, it&#8217;s happened before. In <a href="https://www.fec.gov/resources/cms-content/documents/federalelections88.pdf" target="_blank" rel="noreferrer noopener">1988</a>, George H.W. Bush received nearly 49 million votes, which was 5.6 million fewer than his Republican predecessor, Ronald Reagan, won in <a href="https://www.fec.gov/resources/cms-content/documents/federalelections84.pdf" target="_blank" rel="noreferrer noopener">1984</a>. And in <a href="https://www.fec.gov/resources/cms-content/documents/2012pres.pdf" target="_blank" rel="noreferrer noopener">2012</a> Barack Obama brought in about 66 million votes, which was 3.6 million fewer than he received in <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2008.pdf" target="_blank" rel="noreferrer noopener">2008</a>.</p>
+
+
+
+<p>So, the bottom line is that comparing early vote counts to 2020 vote totals doesn&#8217;t prove that there was any kind of fraud in that election or in this one.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note:&nbsp;</em><em><a href="http://factcheck.org/" target="_blank" rel="noreferrer noopener">FactCheck.org</a></em><em>&nbsp;is one of several organizations&nbsp;</em><em><a href="http://www.annenbergpublicpolicycenter.org/factcheck-org-to-work-with-facebook-on-exposing-viral-fake-news/" target="_blank" rel="noreferrer noopener">working with Facebook</a></em><em>&nbsp;to debunk misinformation shared on social media. Our previous stories can be found&nbsp;</em><em><a href="https://www.factcheck.org/fake-news/" target="_blank" rel="noreferrer noopener">here</a></em><em>. Facebook has&nbsp;</em><em><a href="https://www.factcheck.org/2017/07/debunking-fake-news/" target="_blank" rel="noreferrer noopener">no control</a></em><em>&nbsp;over our editorial content.</em></p>
+
+
+
+<h2 class="wp-block-heading">Sources</h2>
+
+
+
+<p>Farley, Robert. &#8220;<a href="https://www.factcheck.org/2017/01/trumps-bogus-voter-fraud-claims-revisited/" target="_blank" rel="noreferrer noopener">Trump&#8217;s Bogus Voter Fraud Claims Revisited</a>.&#8221; FactCheck.org. 25 Jan 2017.</p>
+
+
+
+<p>Wendling, Mike. &#8220;<a href="https://www.bbc.com/news/articles/czj7eex29r3o" target="_blank" rel="noreferrer noopener">Whirlwind of misinformation sows distrust ahead of US election day</a>.&#8221; BBC. 3 Nov 2024.</p>
+
+
+
+<p>Durkee, Alison. &#8220;<a href="https://www.forbes.com/sites/alisondurkee/2024/11/04/trumps-pennsylvania-fraud-claims-debunked-overseas-voter-challenges-latest-claims-spreading-in-battleground-state/" target="_blank" rel="noreferrer noopener">Trump&#8217;s Pennsylvania Fraud Claims Debunked: Overseas Voter Challenges Latest Claims Spreading In Battleground State</a>.&#8221; Forbes. 4 Nov 2024.</p>
+
+
+
+<p>Yoon, Robert. &#8220;<a href="https://apnews.com/article/trump-2020-election-lies-debunked-4fc26546b07962fdbf9d66e739fbb50d" target="_blank" rel="noreferrer noopener">Trump&#8217;s drumbeat of lies about the 2020 election keeps getting louder. Here are the facts</a>.&#8221; Associated Press. 27 Aug 2023.</p>
+
+
+
+<p>Thompson, Stuart A., Jim Rutenberg&nbsp;and&nbsp;Steven Lee Myers. &#8220;<a href="https://www.nytimes.com/2024/11/06/technology/trump-election-denial.html" target="_blank" rel="noreferrer noopener">After Trump Took the Lead, Election Deniers Went Suddenly Silent</a>.&#8221; New York Times. 6 Nov 2024.</p>
+
+
+
+<p>Federal Election Commission. <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2012.pdf" target="_blank" rel="noreferrer noopener">Federal Elections 2012</a>. Jul 2013.</p>
+
+
+
+<p>Federal Election Commission. <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2016.pdf" target="_blank" rel="noreferrer noopener">Federal Elections 2016</a>. Dec 2017.</p>
+
+
+
+<p>Federal Election Commission. <a href="https://www.fec.gov/resources/cms-content/documents/federalelections2020.pdf" target="_blank" rel="noreferrer noopener">Federal Elections 2020</a>. Oct 2022.</p>
+
+
+
+<p>U.S. Census Bureau. <a href="https://www.census.gov/library/stories/2021/04/record-high-turnout-in-2020-general-election.html" target="_blank" rel="noreferrer noopener">Record High Turnout in 2020 General Election</a>. 29 Apr 2021.</p>
+
+
+
+<p>University of Florida. Election Lab. <a href="https://perma.cc/R6EP-KKQG" target="_blank" rel="noreferrer noopener">2024 General Election Turnout</a>. 7 Nov 2024.</p>
+
+
+
+<p>Associated Press. <a href="https://perma.cc/W8LZ-W7B6" target="_blank" rel="noreferrer noopener">2024 Presidential Election Results</a>. 12 Nov 2024.</p>
+
+
+
+<p>California Secretary of State. <a href="https://perma.cc/K6B9-9SEU" target="_blank" rel="noreferrer noopener">Unprocessed Ballots Status</a>. 11 Nov 2024.</p>
+
+
+
+<p>Karlamangla, Soumya, Orlando Mayorquín&nbsp;and&nbsp;Coral Murphy Marcos. &#8220;<a href="https://www.nytimes.com/2024/11/11/us/california-ballot-count-house-election.html" target="_blank" rel="noreferrer noopener">California Counts Methodically as House Control Hangs in the Balance</a>.&#8221; New York Times. 11 Nov 2024.</p>
+
+
+
+<p>California Secretary of State. <a href="https://www.sos.ca.gov/elections/voter-registration/vote-mail?os=" target="_blank" rel="noreferrer noopener">Voting By Mail</a>. Accessed 11 Nov 2024.</p>
+
+
+
+<p>Easterly, Jen. Director, Cybersecurity and Infrastructure Security Agency. Press release. &#8220;<a href="https://perma.cc/Z8PU-2ZC8" target="_blank" rel="noreferrer noopener">Statement from CISA Director Easterly on the Security of the 2024 Elections</a>.&#8221; 5 Nov 2024.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/both_sides_distort_incomplete_vote-counts_to_falsely_suggest_election_fraud/">Both Sides Distort Incomplete Vote Counts to Falsely Suggest Election Fraud</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Trump&#8217;s New York Case: What Happens Now?</title>
+		<link>https://www.factcheck.org/2024/11/trumps-new-york-case-what-happens-now/</link>
+		
+		<dc:creator><![CDATA[D'Angelo Gore]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2024 21:52:41 +0000</pubDate>
+				<category><![CDATA[Ask FactCheck]]></category>
+		<category><![CDATA[FactCheck Posts]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264267</guid>
+
+					<description><![CDATA[<p><img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/dtrump_mttn_crt_getty.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/dtrump_mttn_crt_getty.jpg 720w, https://cdn.factcheck.org/UploadedFiles/dtrump_mttn_crt_getty-340x145.jpg 340w" sizes="(max-width: 640px) 100vw, 640px" />Q: What will happen in Donald Trump&#8217;s New York state criminal case now that he is president-elect?</p>
+<p>A: Trump is scheduled to be sentenced on Nov. 26, but the judge could decide that sentencing is no longer appropriate. If Trump does receive a sentence, it could be appealed, or the judgment could be deferred until 2029, when Trump would be out of office.</p>
+<p><span id="more-264267"></span></p>
+<p>FULL QUESTION</p>
+<p>What happens if Trump wins the election and then he gets sentenced at the end of the month?</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/trumps-new-york-case-what-happens-now/">Trump&#8217;s New York Case: What Happens Now?</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/dtrump_mttn_crt_getty.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/dtrump_mttn_crt_getty.jpg 720w, https://cdn.factcheck.org/UploadedFiles/dtrump_mttn_crt_getty-340x145.jpg 340w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><strong>Q: What will happen in Donald Trump&#8217;s New York state criminal case now that he is president-elect?</strong></p>
+
+
+
+<p><strong>A: Trump is scheduled to be sentenced on Nov. 26, but the judge could decide that sentencing is no longer appropriate. If Trump does receive a sentence, it could be appealed, or the judgment could be deferred until 2029, when Trump would be out of office.</strong></p>
+
+
+
+<span id="more-264267"></span>
+
+
+
+<h2 class="wp-block-heading">FULL QUESTION</h2>
+
+
+
+<p>What happens if Trump wins the election and then he gets sentenced at the end of the month?</p>
+
+
+
+<h2 class="wp-block-heading">FULL ANSWER</h2>
+
+
+
+<p>President-elect Donald Trump is scheduled to be sentenced in Manhattan on Nov. 26, after being <a href="https://www.factcheck.org/2024/05/qa-on-trumps-criminal-conviction/" target="_blank" rel="noreferrer noopener">convicted</a> in May on 34 felony counts of falsifying business records to conceal election law violations stemming from an effort to keep quiet an alleged extramarital affair. Judge Juan Merchan, who oversaw Trump&#8217;s New York trial, already has <a href="https://abcnews.go.com/US/manhattan-da-oppose-trumps-request-hush-money-conviction/story?id=111611917" target="_blank" rel="noreferrer noopener">twice</a> <a href="https://www.nbcnews.com/politics/donald-trump/judge-delays-trump-sentencing-hush-money-case-november-rcna167282" target="_blank" rel="noreferrer noopener">postponed</a> the sentencing, which was originally scheduled for July 11.</p>
+
+
+
+<p>Now that Trump has been elected the next U.S. president, it&#8217;s possible that he may not be sentenced at all.</p>
+
+
+<div class="wp-block-image">
+<figure class="alignright size-large is-resized"><img loading="lazy" decoding="async" width="533" height="355" src="https://cdn.factcheck.org/UploadedFiles/dtrump_ny_crt_getty-533x355.jpg" alt="" class="wp-image-264288" style="width:434px;height:auto" srcset="https://cdn.factcheck.org/UploadedFiles/dtrump_ny_crt_getty-533x355.jpg 533w, https://cdn.factcheck.org/UploadedFiles/dtrump_ny_crt_getty-218x145.jpg 218w, https://cdn.factcheck.org/UploadedFiles/dtrump_ny_crt_getty-768x512.jpg 768w, https://cdn.factcheck.org/UploadedFiles/dtrump_ny_crt_getty-1536x1024.jpg 1536w, https://cdn.factcheck.org/UploadedFiles/dtrump_ny_crt_getty.jpg 2000w" sizes="(max-width: 533px) 100vw, 533px" /><figcaption class="wp-element-caption">Trump appears in court for his hush money trial at Manhattan Criminal Court on May 30, 2024 in New York City. Photo by Steven Hirsch-Pool/Getty Images.</figcaption></figure></div>
+
+
+<p>Before Trump&#8217;s sentencing hearing, Merchan, on Nov. 12, is <a href="https://www.nycourts.gov/LegacyPDFS/press/pdfs/PeoplevDJT-Letter-Adjournment-Dec9-6-24.pdf" target="_blank" rel="noreferrer noopener">scheduled</a> to decide whether to completely dismiss the conviction based on <a href="https://www.nycourts.gov/LegacyPDFS/press/PDFs/Letter-to-JusticeMerchan-immunity-decision.pdf" target="_blank" rel="noreferrer noopener">a motion</a> that Trump&#8217;s legal team filed after the Supreme Court’s July 1 ruling that presidents have immunity for certain official actions while in office. </p>
+
+
+
+<p>However, CNN has <a href="https://www.cnn.com/2024/11/06/politics/what-happens-to-trump-criminal-cases/index.html" target="_blank" rel="noreferrer noopener">reported</a> that before Nov. 12, Trump&#8217;s attorneys are planning to try to get the sentencing cancelled by filing a motion &#8220;arguing that as a president-elect, he is entitled to the same constitutional protections as a sitting president and should be protected from any action by state prosecutors.&#8221;</p>
+
+
+
+<p>If either motion is granted, the charges would be dismissed.</p>
+
+
+
+<p>&#8220;But if the judge decides to keep the conviction intact, the former president’s lawyers are expected to ask Merchan to delay Trump’s sentencing so they can appeal,&#8221; CNN said. &#8220;And if that’s not granted, his attorneys are planning to appeal the immunity decision to state appellate courts and potentially all the way to the US Supreme Court to ask the courts to delay Trump’s sentencing until all appeals are exhausted, which could take months.&#8221;</p>
+
+
+
+<p>If Merchan does proceed with sentencing, he has multiple options, <a href="https://www.factcheck.org/2024/05/qa-on-trumps-criminal-conviction/" target="_blank" rel="noreferrer noopener">as we&#8217;ve written</a>.</p>
+
+
+
+<p>Trump could get prison time, but that&#8217;s not likely, <a href="https://www.fordham.edu/school-of-law/faculty/directory/full-time/cheryl-bader/" target="_blank" rel="noreferrer noopener">Cheryl Bader,</a> a clinical associate professor of law at Fordham University School of Law, told us in a June interview.</p>
+
+
+
+<p>For a first-time convicted felon, with a low-level, nonviolent felony and a person of advanced age, “under any circumstance like that, there’d be a relatively low chance of incarceration,” she said.</p>
+
+
+
+<p>Other sentencing possibilities include probation or a “conditional discharge” with conditions other than incarceration or probation. The “simplest” option, she said, might be for the judge to fine Trump.</p>
+
+
+
+<p>&#8220;He has not wanted to put his thumb on the scale during the election but now that the election is over, it will be interesting to see whether Judge Merchan will feel any pull to defer to the political process or will see this as perhaps the only opportunity for a judge to hold Trump accountable for his criminal conduct,&#8221; Bader said in an email to us on Nov. 7.</p>
+
+
+
+<p>If any sentence of confinement is rendered, the judge could order that the penalty be imposed after Trump completes his four-year term as president in 2029. The Trump team could also appeal a leveled punishment.</p>
+
+
+
+<p>But some legal experts don&#8217;t see it going that way.</p>
+
+
+
+<p>&#8220;I think any reasonable judge wouldn’t sentence the president-elect,” Jill Konviser, a retired New York trial judge, <a href="https://www.politico.com/news/2024/11/06/trump-sentencing-probably-wont-happen-00187999" target="_blank" rel="noreferrer noopener">told Politico</a> for a story that said the &#8220;sentencing hearing in the hush money case almost certainly won’t happen.&#8221;</p>
+
+
+
+<p>And <a href="https://law.syracuse.edu/deans-faculty/faculty/gregory-l-germain/" target="_blank" rel="noreferrer noopener">Greg Germain</a>, a corporate attorney and Syracuse University professor of law, <a href="https://www.newsweek.com/donald-trump-stormy-daniels-hush-money-case-new-york-nevada-sentencing-november-1982055" target="_blank" rel="noreferrer noopener">told Newsweek</a> that the hush money case needs to be &#8220;stayed,&#8221; or stopped. &#8220;If Judge Merchan tries to proceed with it, or even sets it for sentencing, the Department of Justice will intervene and ultimately the Supreme court will slap him down,&#8221; he was quoted saying.</p>
+
+
+
+<p>But Germain said he doesn&#8217;t believe the judge will try to sentence Trump.</p>
+
+
+
+<p>Unlike the pending federal prosecutions against him, Trump <a href="https://www.justice.gov/pardon/frequently-asked-questions" target="_blank" rel="noreferrer noopener">can’t pardon</a> himself for state offenses.</p>
+
+
+
+<p><em><strong>Update, Nov. 13: </strong>On Nov. 10, Merchan <a href="https://perma.cc/353Y-LP6T" target="_blank" rel="noreferrer noopener">granted</a> a joint request from state prosecutors and Trump&#8217;s lawyers to postpone Merchan&#8217;s rulings on the pending presidential immunity motion and sentencing. Prosecutors agreed with the defense counsel that more time is needed to consider how Trump&#8217;s election win affects the case. Merchan agreed to give prosecutors until Nov. 19 to advise the court on the state’s “view of appropriate steps going forward.&#8221;</em></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note: FactCheck.org does not accept advertising. We rely on grants and individual donations from people like you. Please consider a donation. Credit card donations may be made through <a href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" target="_blank" rel="noreferrer noopener">our “Donate” page</a>. If you prefer to give by check, send to: FactCheck.org, Annenberg Public Policy Center, 202 S. 36th St., Philadelphia, PA 19104. </em></p>
+
+
+
+<h2 class="wp-block-heading">Sources</h2>
+
+
+
+<p>Bader, Cheryl, clinical associate professor of law at Fordham University School of Law. Email sent to FactCheck.org. 7 Nov 2024.</p>
+
+
+
+<p>Farley, Robert, et al. “<a href="https://www.factcheck.org/2024/05/qa-on-trumps-criminal-conviction/">Q&amp;A on Trump’s Criminal Conviction</a>.” FactCheck.org. 31 May 2024.</p>
+
+
+
+<p>O&#8217;Driscoll, Sean. &#8220;<a href="https://www.newsweek.com/donald-trump-stormy-daniels-hush-money-case-new-york-nevada-sentencing-november-1982055">Supreme Court Will &#8216;Slap Down&#8217; Donald Trump Hush Money Case — Attorney</a>.&#8221; Newsweek. 7 Nov 2024.</p>
+
+
+
+<p>Orden, Erica. &#8220;<a href="https://www.politico.com/news/2024/11/06/trump-sentencing-probably-wont-happen-00187999">Trump is due to be sentenced in 3 weeks. It probably won’t happen</a>.&#8221; Politico. 6 Nov 2024.</p>
+
+
+
+<p>Cole, Devan, et al. &#8220;<a href="https://www.cnn.com/2024/11/06/politics/what-happens-to-trump-criminal-cases/index.html">What happens to Trump’s criminal and civil cases now that he’s been reelected</a>.&#8221; CNN. 6 Nov 2024.</p>
+
+
+
+<p>Reiss, Adam. “<a href="https://www.nbcnews.com/politics/donald-trump/judge-delays-trump-sentencing-hush-money-case-november-rcna167282">Judge delays Trump sentencing in hush money case until after November election</a>.” NBC News. 6 Sep 2024.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/trumps-new-york-case-what-happens-now/">Trump&#8217;s New York Case: What Happens Now?</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google’s ‘Where to Vote’ Search Result Reflects Quirk of Candidate Surname, Not Bias</title>
+		<link>https://www.factcheck.org/2024/11/googles-where-to-vote-search-result-reflects-quirk-of-candidate-surname-not-bias/</link>
+		
+		<dc:creator><![CDATA[Jessica McDonald]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2024 21:56:25 +0000</pubDate>
+				<category><![CDATA[Debunking Viral Claims]]></category>
+		<category><![CDATA[FactCheck Posts]]></category>
+		<category><![CDATA[2024 elections]]></category>
+		<category><![CDATA[Presidential Election 2024]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264175</guid>
+
+					<description><![CDATA[<p><img width="640" height="591" src="https://cdn.factcheck.org/UploadedFiles/google.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/google.png 703w, https://cdn.factcheck.org/UploadedFiles/google-157x145.png 157w, https://cdn.factcheck.org/UploadedFiles/google-385x355.png 385w" sizes="(max-width: 640px) 100vw, 640px" />Social media users alleged bias against former President Donald Trump when a Google search on Election Day for “where to vote” returned an interactive map to find a person’s polling station when including the word “Harris” but not “Trump.” The reason is because “Harris” is a county in Texas, whereas “Trump” is not a location.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/googles-where-to-vote-search-result-reflects-quirk-of-candidate-surname-not-bias/">Google’s ‘Where to Vote’ Search Result Reflects Quirk of Candidate Surname, Not Bias</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="591" src="https://cdn.factcheck.org/UploadedFiles/google.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/google.png 703w, https://cdn.factcheck.org/UploadedFiles/google-157x145.png 157w, https://cdn.factcheck.org/UploadedFiles/google-385x355.png 385w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><em>Para leer en español, vea <a href="https://eltiempolatino.com/2024/11/07/politica-comunidad-latino/resultado-busqueda-de-google-dia-eleccion-eeuu/" target="_blank" rel="noreferrer noopener">esta traducción</a> de El Tiempo Latino.</em></p>
+
+
+
+<h2 class="wp-block-heading">Quick Take</h2>
+
+
+
+<p>Social media users alleged bias against former President Donald Trump when a Google search on Election Day for “where to vote” returned an interactive map to find a person’s polling station when including the word “Harris” but not “Trump.” The reason is because “Harris” is a county in Texas, whereas “Trump” is not a location.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Full Story</h2>
+
+
+
+<p>As millions of Americans were headed to the polls to cast their ballots on Nov. 5, social media accounts were falsely claiming Google was trying to interfere with the election by providing different search results for Vice President Kamala Harris than it did for Trump.</p>
+
+
+
+<p>In <a href="https://perma.cc/4HXG-QN6H" target="_blank" rel="noreferrer noopener">late October</a>, the company had <a href="https://perma.cc/2TCT-PTYG" target="_blank" rel="noreferrer noopener">rolled out</a> a map search result feature, as it had in previous years, to provide voters with locations when they searched&nbsp;for terms such as &#8220;where to vote” or “ballot dropboxes.&#8221;</p>
+
+
+
+<p>It turned out the interactive map, allowing a person to put in their address, also appeared when querying “where can I vote for Harris,” but not when searching “where can I vote for Trump.”</p>
+
+
+<div class="wp-block-image">
+<figure class="alignleft is-resized"><img loading="lazy" decoding="async" width="1652" height="1308" src="https://cdn.factcheck.org/UploadedFiles/google-vance.jpeg" alt="" class="wp-image-264232" style="width:360px;height:auto" srcset="https://cdn.factcheck.org/UploadedFiles/google-vance.jpeg 1652w, https://cdn.factcheck.org/UploadedFiles/google-vance-183x145.jpeg 183w, https://cdn.factcheck.org/UploadedFiles/google-vance-448x355.jpeg 448w, https://cdn.factcheck.org/UploadedFiles/google-vance-768x608.jpeg 768w, https://cdn.factcheck.org/UploadedFiles/google-vance-1536x1216.jpeg 1536w" sizes="(max-width: 1652px) 100vw, 1652px" /><figcaption class="wp-element-caption">A screenshot of Google&#8217;s &#8220;where to vote&#8221; panel. The interactive map appeared when adding the words &#8220;Harris&#8221; or &#8220;Vance,&#8221; but not &#8220;Trump,&#8221; since only the former two are location names.</figcaption></figure></div>
+
+
+<p><a href="https://perma.cc/CWH8-TG3E" target="_blank" rel="noreferrer noopener">Several</a> <a href="https://perma.cc/7SJT-KRE7" target="_blank" rel="noreferrer noopener">social</a> <a href="https://perma.cc/9P8S-K536" target="_blank" rel="noreferrer noopener">media</a>&nbsp;<a href="https://perma.cc/5JR2-DGGN" target="_blank" rel="noreferrer noopener">accounts</a>&nbsp;jumped to the conclusion that the differing search results were an effort by the tech behemoth to swing the election.</p>
+
+
+
+<p>“BREAKING: Google shows a ‘Where to Vote’ section with a map for Kamala Harris, but not for Donald Trump,” wrote one influential&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://perma.cc/D522-XWWE">post</a>&nbsp;on X. “Google is the biggest corporate donor to the Democratic Party.”</p>
+
+
+
+<p>X owner Elon Musk, a prominent supporter of Trump,&nbsp;<a href="https://perma.cc/KPL2-ARJ2" target="_blank" rel="noreferrer noopener">reshared</a>&nbsp;the post, asking, “Are others seeing this too?” He proceeded to post about it&nbsp;<a href="https://perma.cc/A4PQ-T28H?type=standard" target="_blank" rel="noreferrer noopener">two</a>&nbsp;<a href="https://perma.cc/7UVK-9X35" target="_blank" rel="noreferrer noopener">more</a>&nbsp;times within about 30 minutes, including a now-deleted&nbsp;<a href="https://perma.cc/A4PQ-T28H?type=standard" target="_blank" rel="noreferrer noopener">post</a>&nbsp;that read, “This is so messed up.”</p>
+
+
+
+<p>But the discrepancy came down to the simple fact that only one candidate has a location-based name. Harris is a county in Texas; Trump is not a location.</p>
+
+
+
+<p>Indeed, while we could replicate the results, we also found that we did not get the map result when adding Harris’ first name. We also found that the map appeared when adding a variety of common names that happen to be places: Jones, Davis, Williams, Franklin and Johnson &#8212; or when keeping the search terms simple, and just typing “where can I vote.”</p>
+
+
+
+<p>Less than an hour after Musk’s reshare, Google had responded and explained the issue.</p>
+
+
+
+<p>“The ‘where to vote’ panel is triggering for some specific searches bc Harris is also the name of a county in TX,” the company&nbsp;<a href="https://perma.cc/6M9D-GDN9" target="_blank" rel="noreferrer noopener">said</a>&nbsp;in an X&nbsp;<a href="https://perma.cc/ZB6D-LX6J" target="_blank" rel="noreferrer noopener">post</a>. “Happens for ‘Vance’ too bc it’s also the name of a county. Fix is coming. Note very few people actually search for voting places this way.”</p>
+
+
+
+<p><a href="https://www.vancecounty.org/" target="_blank" rel="noreferrer noopener">Vance County</a>&nbsp;is in North Carolina.</p>
+
+
+
+<p>Google&nbsp;<a href="https://perma.cc/HBF6-GCL2" target="_blank" rel="noreferrer noopener">implemented a fix</a>&nbsp;shortly. According to a company <a href="https://perma.cc/2TCT-PTYG" target="_blank" rel="noreferrer noopener">blog post</a>, the map search result feature <a href="https://perma.cc/2TCT-PTYG" target="_blank" rel="noreferrer noopener">uses</a> information from the <a href="https://www.votinginfoproject.org/about" target="_blank" rel="noreferrer noopener">Voting Information Project</a>, which is a collaboration between state and local election officials and <a href="https://www.democracy.works/" target="_blank" rel="noreferrer noopener">Democracy Works</a>, a nonpartisan civic technology nonprofit. Google helps fund the project.</p>
+
+
+
+<p>As for the claim that Google is &#8220;the biggest corporate donor&#8221; to Democrats, the company itself can&#8217;t contribute money to candidates. Its political action committee&nbsp;<a href="https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2024" target="_blank" rel="noreferrer noopener">contributed</a>&nbsp;a slightly greater percentage of its donations to Republicans in this election cycle, according to OpenSecrets, which tracks political contributions. Individual contributions from the employees of Google parent company Alphabet <a href="https://www.opensecrets.org/orgs/alphabet-inc/summary?toprecipcycle=2024&amp;contribcycle=2024&amp;lobcycle=2024&amp;outspendcycle=2024&amp;id=D000067823&amp;topnumcycle=2024" target="_blank" rel="noreferrer noopener">favored</a> Democrats overall, but the total amount donated ranked 49<sup>th</sup>&nbsp;among the organizations OpenSecrets tracks.&nbsp;</p>
+
+
+
+<p>Musk did reshare Google’s post,&nbsp;<a href="https://perma.cc/34Y7-GQUR" target="_blank" rel="noreferrer noopener">adding</a>, “Thanks for the clarification.” A reader’s note was also appended to the original post he had shared. It&nbsp;<a href="https://perma.cc/D522-XWWE" target="_blank" rel="noreferrer noopener">explained</a>&nbsp;that a variety of location names work, but not “if there is no city / county / state with the same name,” such as Kamala, Trump and Walz.</p>
+
+
+
+<p>But even after the explanation, claims of election interference continued to circulate &#8212; and proceeded to distort Google’s response into an admission of wrongdoing.</p>
+
+
+
+<p>“Google admits to Trump and Harris search engine discrepancy, says ‘fix is coming,’” read one X&nbsp;<a href="https://perma.cc/U7Z2-4L3V" target="_blank" rel="noreferrer noopener">post</a>. “This is ABSOLUTELY INTERFERING WITH THE US ELECTION.”</p>
+
+
+
+<p>In the wee hours of the morning the day after the election &#8212; shortly before the Associated Press <a href="https://apnews.com/article/trump-harris-wisconsin-president-race-call-winner-explain-d07049f884d25ceae0d1376157d07c35">called</a> the race for Trump &#8212; the same account continued to insist on malfeasance.</p>
+
+
+
+<p>“Guess what happens to Google once the Trump administration investigates them for election interference?” a post <a href="https://perma.cc/2WFF-2EKT" target="_blank" rel="noreferrer noopener">read</a>.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note: FactCheck.org does not accept advertising. We rely on grants and individual donations from people like you. Please consider a donation. Credit card donations may be made through <a href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" target="_blank" rel="noreferrer noopener">our “Donate” page</a>. If you prefer to give by check, send to: FactCheck.org, Annenberg Public Policy Center, 202 S. 36th St., Philadelphia, PA 19104. </em></p>
+
+
+
+<h2 class="wp-block-heading">Sources</h2>
+
+
+
+<p>Kitchen, Geordy. “<a href="https://blog.google/outreach-initiatives/civics/2024-election-resources-search-maps/" target="_blank" rel="noreferrer noopener">Find voting information on Google Search and Maps</a>.” The Keyword (Google company blog). 21 Oct 2024.</p>
+
+
+
+<p>News from Google (@NewsFromGoogle). “<a href="https://x.com/NewsFromGoogle/status/1853895738876649540" target="_blank" rel="noreferrer noopener">The ‘where to vote’ panel is triggering for some specific searches bc Harris is also the name of a county in TX. Happens for ‘Vance’ too bc it’s also the name of a county. Fix is coming. Note very few people actually search for voting places this way</a>.” X. 5 Nov 2024.</p>
+
+
+
+<p>News from Google (@NewsFromGoogle). “<a href="https://twitter.com/NewsFromGoogle/status/1853899713575366909" target="_blank" rel="noreferrer noopener">Update: This is now fixed</a>.” X. 5 Nov 2024.</p>
+
+
+
+<p>“<a href="https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2024" target="_blank" rel="noreferrer noopener">PAC Profile: Google Inc</a>.” Open Secrets. Accessed 6 Nov 2024.</p>
+
+
+
+<p>“<a href="https://www.opensecrets.org/orgs/alphabet-inc/summary?toprecipcycle=2024&amp;contribcycle=2024&amp;lobcycle=2024&amp;outspendcycle=2024&amp;id=D000067823&amp;topnumcycle=2024" target="_blank" rel="noreferrer noopener">Alphabet Inc</a>.” Open Secrets. Accessed 6 Nov 2024.</p>
+
+
+
+<p>Yoon, Robert. “<a href="https://apnews.com/article/trump-harris-wisconsin-president-race-call-winner-explain-d07049f884d25ceae0d1376157d07c35" target="_blank" rel="noreferrer noopener">Why AP called Wisconsin and the White House for Donald Trump</a>.” AP. 6 Nov 2024.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/googles-where-to-vote-search-result-reflects-quirk-of-candidate-surname-not-bias/">Google’s ‘Where to Vote’ Search Result Reflects Quirk of Candidate Surname, Not Bias</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Raskin Didn&#8217;t Say He &#8216;Won&#8217;t Be Certifying the Election&#8217;</title>
+		<link>https://www.factcheck.org/2024/11/raskin-didnt-say-he-wont-be-certifying-the-election/</link>
+		
+		<dc:creator><![CDATA[Lori Robertson]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2024 21:04:09 +0000</pubDate>
+				<category><![CDATA[FactCheck Posts]]></category>
+		<category><![CDATA[2024 elections]]></category>
+		<category><![CDATA[Presidential Election 2024]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264164</guid>
+
+					<description><![CDATA[<p><img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/raskin.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/raskin.png 720w, https://cdn.factcheck.org/UploadedFiles/raskin-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />Social media users have spread a quote attributed to Democratic Rep. Jamie Raskin, claiming he said "we won’t be certifying the election" if former President Donald Trump wins. Raskin responded, saying the quote is "100% fabricated" and that "America is having a free and fair election and Congress will certify the winner." The origin of the posts appears to be a misleading account of Raskin's comments in February.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/raskin-didnt-say-he-wont-be-certifying-the-election/">Raskin Didn&#8217;t Say He &#8216;Won&#8217;t Be Certifying the Election&#8217;</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/raskin.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/raskin.png 720w, https://cdn.factcheck.org/UploadedFiles/raskin-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><em>Para leer en español, vea <a href="https://eltiempolatino.com/2024/11/07/politica-comunidad-latino/jamie-raskin-eleccion-trump/">e</a><a href="https://eltiempolatino.com/2024/11/07/politica-comunidad-latino/jamie-raskin-eleccion-trump/" target="_blank" rel="noreferrer noopener">s</a><a href="https://eltiempolatino.com/2024/11/07/politica-comunidad-latino/jamie-raskin-eleccion-trump/">ta traducción</a> de El Tiempo Latino.</em></p>
+
+
+
+<h2 class="wp-block-heading">Quick Take</h2>
+
+
+
+<p>Social media users have spread a quote attributed to Democratic Rep. Jamie Raskin, claiming he said &#8220;we won’t be certifying the election&#8221; if former President Donald Trump wins. Raskin responded, saying the quote is &#8220;100% fabricated&#8221; and that &#8220;America is having a free and fair election and Congress will certify the winner.&#8221; The origin of the posts appears to be a misleading account of Raskin&#8217;s comments in February.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Full Story</h2>
+
+
+
+<p>In the days leading up to Election Day, a supposed quote from Democratic Rep. Jamie Raskin of Maryland <a href="https://perma.cc/S2HZ-B2CV" target="_blank" rel="noreferrer noopener">began</a> <a href="https://perma.cc/7VQK-VAYT" target="_blank" rel="noreferrer noopener">spreading</a> on <a href="https://perma.cc/9CB7-VP4T" target="_blank" rel="noreferrer noopener">social media</a>, sometimes under the label of &#8220;breaking,&#8221; as in breaking news. No source was cited for the quote, and Raskin, in a Nov. 5 post on X, <a href="https://perma.cc/HC96-UWEJ" target="_blank" rel="noreferrer noopener">said</a> it was &#8220;fabricated.&#8221;</p>
+
+
+
+<p>The bogus quote read: &#8220;Let folks cast their votes for Trump if that’s their choice. But mark my words, we won’t be certifying the election. He might win, but we’ll ensure he doesn’t step foot in the Oval Office.&#8221;</p>
+
+
+
+<p>Raskin, a former constitutional law professor who was the <a href="https://raskin.house.gov/2021/1/speaker-pelosi-names-raskin-lead-impeachment-manager" target="_blank" rel="noreferrer noopener">lead impeachment manager</a> for the Trump impeachment related to the events of Jan. 6, 2021, responded: &#8220;This fictional &#8216;quote&#8217; is 100% fabricated. It&#8217;s one more lie in the stream of right-wing lies designed to undermine our election. Despite this actionable libel and all the disinformation, America is having a free and fair election and Congress will certify the winner.&#8221;</p>
+
+
+
+<p>Another <a href="https://perma.cc/GL6T-Q2BR" target="_blank" rel="noreferrer noopener">version</a> of the circulating quote <a href="https://perma.cc/GY3S-3JQU" target="_blank" rel="noreferrer noopener">used</a> nearly the same words, but claimed Raskin had said Trump &#8220;may be elected but we are not going to let him be inaugurated.&#8221; We <a href="https://perma.cc/F9SQ-83D8" target="_blank" rel="noreferrer noopener">traced</a> that quote back to an <a href="https://youtu.be/sTrZLHQOJkg?si=D9Sie1qDfEAYk0W6&amp;t=1490" target="_blank" rel="noreferrer noopener">Oct. 28 podcast episode</a>, in which <a href="https://2017-2021.state.gov/biographies/michael-a-benz/" target="_blank" rel="noreferrer noopener">Mike Benz</a>, who worked in the State Department during the Trump administration, gave his interpretation of something Raskin said in February about a case that was before the Supreme Court at the time. Benz&#8217;s paraphrase of Raskin&#8217;s remarks is missing some important context.</p>
+
+
+
+<p>The podcast showed a clip of Raskin, labeled with the date &#8220;Aug. 5, 2024,&#8221; but the clip actually comes from a Feb. 17 event at the Washington, D.C., bookstore Politics and Prose. The Supreme Court then was considering Trump&#8217;s appeal of a Colorado state Supreme Court <a href="https://www.courts.state.co.us/userfiles/file/Court_Probation/Supreme_Court/Opinions/2023/23SA300.pdf" target="_blank" rel="noreferrer noopener">ruling</a> that said Trump was disqualified from the presidency based on Section 3, the&nbsp;<a href="https://constitution.congress.gov/browse/amendment-14/section-3/" target="_blank" rel="noreferrer noopener">insurrection clause,</a> of the 14th Amendment&nbsp;to the U.S. Constitution and shouldn&#8217;t appear on the state&#8217;s 2024 election ballot. The insurrection clause says that a person can&#8217;t hold state or federal office if they had previously held office and sworn an oath to support the Constitution and &#8220;engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof.&#8221;</p>
+
+
+
+<p>The state court ruled that Trump had engaged in insurrection based on his actions around Jan. 6, 2021, when his supporters attacked the U.S. Capitol and attempted to derail the certification of the 2020 electoral votes. At the time of the U.S. Supreme Court case, challenges <a href="https://www.nytimes.com/interactive/2024/01/02/us/politics/trump-ballot-removal-map.html" target="_blank" rel="noreferrer noopener">had been filed</a> in many other states to also remove Trump from the ballot.</p>
+
+
+
+<p>At the February bookstore event, Raskin <a href="https://www.youtube.com/live/3If_fz8GatQ?si=DHPhYLQNROvoJA0P&amp;t=2350" target="_blank" rel="noreferrer noopener">expressed</a> concern about what would happen if the U.S. Supreme Court &#8220;decision says that it&#8217;s really up to Congress on Jan. 5 or Jan. 6, 2025, to disqualify him at the counting of the Electoral College votes, which really could lead to something akin to Civil War, if that&#8217;s, if that&#8217;s what the suggestion is, which is what I think I heard when I went to the oral argument.&#8221;</p>
+
+
+
+<p>The podcast didn&#8217;t use that clip, but showed Raskin again addressing the issue later at the same event. He <a href="https://www.youtube.com/live/3If_fz8GatQ?si=sJniF257KaicyY_s&amp;t=3642" target="_blank" rel="noreferrer noopener">said</a> that &#8220;what can be put into the Constitution can slip away from you very quickly&#8221; and talked about what the court might do.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><strong>Raskin, Feb. 7:</strong> And the greatest example going on right now before our very eyes is section 3 of the 14th Amendment, which they&#8217;re just disappearing with a magic wand as if it doesn&#8217;t exist, even though it could not be clearer what it&#8217;s stating. And so you know they want to kick it to Congress so it&#8217;s going to be up to us on January 6, 2025, to tell the rampaging Trump mobs that he&#8217;s disqualified. And then we need bodyguards for everybody in Civil War conditions. All because the nine justices, not all of them, but these justices who have not many cases to look at every year, not that much work to do, a huge staff, great protection, simply do not want to do their job and interpret what the great 14th Amendment means.</p>
+</blockquote>
+
+
+
+<p>The Supreme Court <a href="https://www.scotusblog.com/2024/03/supreme-court-rules-states-cannot-remove-trump-from-ballot-for-insurrection/" target="_blank" rel="noreferrer noopener">ruled</a> the next month, on March 4, that Colorado couldn&#8217;t remove Trump from the ballot, with a majority <a href="https://www.supremecourt.gov/opinions/23pdf/23-719_19m2.pdf" target="_blank" rel="noreferrer noopener">saying</a> that the &#8220;responsibility for enforcing Section 3 against federal officeholders and candidates rests with Congress and not the States.&#8221; The justices said that Congress would have to pass legislation to enforce the insurrection clause. They didn&#8217;t say that Congress would decide such issues on Jan. 6 when the electoral votes are certified, as Raskin had feared in his remarks at the bookstore.</p>
+
+
+
+<p>On the day of the ruling, Raskin <a href="https://www.axios.com/2024/03/04/jamie-raskin-trump-ballot-ruling-supreme-court" target="_blank" rel="noreferrer noopener">told</a> Axios that he was working on legislation so that Congress could &#8220;act.&#8221; But Congress didn&#8217;t act; Trump was on the ballot and became the Republican presidential nominee.</p>
+
+
+
+<p>In the podcast, Benz claimed that &#8220;they&#8217;re going to make the argument that Donald Trump is disqualified under the 14th Amendment.&#8221;</p>
+
+
+
+<p>We didn&#8217;t find an instance of Raskin saying anything like that recently. We asked his office about the February remarks, but we haven&#8217;t received a response.</p>
+
+
+
+<p>Raskin <a href="https://www.axios.com/2024/10/11/house-democrats-jan-6-election-trump-raskin" target="_blank" rel="noreferrer noopener">told</a> Axios last month that if Trump &#8220;won a free, fair and honest election, then we would obviously accept it.&#8221; But the news site reported that Raskin said Trump &#8220;is doing whatever he can to try to interfere with the process, whether we&#8217;re talking about manipulating electoral college counts in Nebraska or manipulating the vote count in Georgia or imposing other kinds of impediments.&#8221;</p>
+
+
+
+<p>The congressman also <a href="https://grabien.com/story.php?id=498896" target="_blank" rel="noreferrer noopener">said</a> on HBO&#8217;s &#8220;Real Time with Bill Maher&#8221; on Nov. 2: &#8220;So when I say we will support a free and fair election, no, we won&#8217;t allow them to steal it in the states or steal it in the Department of Justice or steal it with any other election official in the country. If it&#8217;s a free and fair election, we will do what we&#8217;ve always done, we will honor it.&#8221;</p>
+
+
+
+<p>In an email sent to us and others, Raskin&#8217;s office said that he &#8220;has always remained committed to certifying the results of a free and fair election,&#8221; pointing to his Nov. 5 statement on the viral claims.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note: FactCheck.org does not accept advertising. We rely on grants and individual donations from people like you. Please consider a donation. Credit card donations may be made through <a href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" target="_blank" rel="noreferrer noopener">our “Donate” page</a>. If you prefer to give by check, send to: FactCheck.org, Annenberg Public Policy Center, 202 S. 36th St., Philadelphia, PA 19104. </em></p>
+
+
+
+<h2 class="wp-block-heading">Sources</h2>
+
+
+
+<p>Raskin, Jamie (@RepRaskin). &#8220;<a href="https://perma.cc/HC96-UWEJ" target="_blank" rel="noreferrer noopener">This fictional &#8216;quote&#8217; is 100% fabricated. It&#8217;s one more lie in the stream of right-wing lies designed to undermine our election. Despite this actionable libel and all the disinformation, America is having a free and fair election and Congress will certify the winner</a>.&#8221; X. 5 Nov 2024.</p>
+
+
+
+<p>@LarryDJonesJr. &#8220;BREAKING: Jamie Raskin said, &#8216;Let folks cast their votes for Trump if that’s their choice. But mark my words, we won’t be certifying the election. He might win, but we’ll ensure he doesn’t step foot in the Oval Office.&#8217;” X. 4 Nov 2024.</p>
+
+
+
+<p>@realTrumpNewsX. &#8220;Jamie Raskin : Let people vote for Trump if they want, we’re not gonna certify the election anyways, so he may be elected but we are not going to let him be inaugurated.&#8221; X. 31 Oct 2024.</p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=sTrZLHQOJkg&amp;t=1490s" target="_blank" rel="noreferrer noopener">PBD Podcast</a>. YouTube.com. 28 Oct 2024.</p>
+
+
+
+<p>Constitution Annotated.&nbsp;<a href="https://constitution.congress.gov/browse/amendment-14/section-3/" target="_blank" rel="noreferrer noopener">Fourteenth Amendment Equal Protection and Other Rights. Section 3 Disqualification from Holding Office.</a>&nbsp;Constitution.congress.gov. Accessed 6 Nov 2024.</p>
+
+
+
+<p>Supreme Court of the State of Colorado. <a href="https://www.courts.state.co.us/userfiles/file/Court_Probation/Supreme_Court/Opinions/2023/23SA300.pdf" target="_blank" rel="noreferrer noopener">Supreme Court Case No. 23SA300</a>. 19 Dec 2023.</p>
+
+
+
+<p>Gamio, Lazaro et. al. &#8220;<a href="https://www.nytimes.com/interactive/2024/01/02/us/politics/trump-ballot-removal-map.html" target="_blank" rel="noreferrer noopener">Tracking Efforts to Remove Trump From the 2024 Ballot</a>.&#8221; New York Times. updated 4 Mar 2024. </p>
+
+
+
+<p>Politics and Prose. &#8220;<a href="https://www.youtube.com/live/3If_fz8GatQ?t=2350s" target="_blank" rel="noreferrer noopener">Rick Hasen — A Real Right to Vote &#8211; with Representative Jamie Raskin and Sherrilyn Ifill</a>.&#8221; YouTube.com. 17 Feb 2024.</p>
+
+
+
+<p>Howe, Amy. &#8220;<a href="https://www.scotusblog.com/2024/03/supreme-court-rules-states-cannot-remove-trump-from-ballot-for-insurrection/" target="_blank" rel="noreferrer noopener">Supreme Court rules states cannot remove Trump from ballot for insurrection</a>.&#8221; SCOTUSblog. 4 Mar 2024.</p>
+
+
+
+<p><a href="https://www.supremecourt.gov/opinions/23pdf/23-719_19m2.pdf" target="_blank" rel="noreferrer noopener">Donald J. Trump v. Norma Anderson</a>. No. 23-719. Supreme Court of the United States. 4 Mar 2024.</p>
+
+
+
+<p>Solender, Andrew. &#8220;<a href="https://www.axios.com/2024/03/04/jamie-raskin-trump-ballot-ruling-supreme-court" target="_blank" rel="noreferrer noopener">Scoop: Top Democrat &#8216;working on&#8217; bill responding to Trump ballot ruling</a>.&#8221; Axios. 4 Mar 2024.</p>
+
+
+
+<p>Solender, Andrew. &#8220;<a href="https://www.axios.com/2024/10/11/house-democrats-jan-6-election-trump-raskin" target="_blank" rel="noreferrer noopener">Scoop: Some top Dems won&#8217;t commit to certifying a Trump win</a>.&#8221; Axios. 10 Oct 2024.</p>
+
+
+
+<p>Raskin, Jamie. <a href="https://grabien.com/story.php?id=498896" target="_blank" rel="noreferrer noopener">HBO&#8217;s &#8220;Real Time with Bill Maher.</a>&#8221; Grabien.com. 2 Nov 2024.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/raskin-didnt-say-he-wont-be-certifying-the-election/">Raskin Didn&#8217;t Say He &#8216;Won&#8217;t Be Certifying the Election&#8217;</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Trump Makes Unsupported Claim About &#8216;Massive CHEATING&#8217; in Philadelphia</title>
+		<link>https://www.factcheck.org/2024/11/trump-makes-unsupported-claim-about-massive-cheating-in-philadelphia/</link>
+		
+		<dc:creator><![CDATA[Robert Farley]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2024 00:34:07 +0000</pubDate>
+				<category><![CDATA[FactCheck Posts]]></category>
+		<category><![CDATA[2024 elections]]></category>
+		<category><![CDATA[Presidential Election 2024]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264174</guid>
+
+					<description><![CDATA[<p><img width="640" height="274" src="https://cdn.factcheck.org/UploadedFiles/Trump-Election-Day.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/Trump-Election-Day.png 720w, https://cdn.factcheck.org/UploadedFiles/Trump-Election-Day-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />Former President Donald Trump posted to social media an unsupported claim about "massive CHEATING" in Philadelphia, which he claimed had drawn the attention of law enforcement. The Philadelphia Police Department, the Philadelphia district attorney, a Republican city council member and the Pennsylvania Department of State all refuted the claim.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/trump-makes-unsupported-claim-about-massive-cheating-in-philadelphia/">Trump Makes Unsupported Claim About &#8216;Massive CHEATING&#8217; in Philadelphia</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="274" src="https://cdn.factcheck.org/UploadedFiles/Trump-Election-Day.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/Trump-Election-Day.png 720w, https://cdn.factcheck.org/UploadedFiles/Trump-Election-Day-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><em>Para leer en español, vea <a href="https://eltiempolatino.com/2024/11/07/politica-comunidad-latino/trump-filadelfia-eleccion-2024-estados-unidos/" target="_blank" rel="noreferrer noopener">esta traducción</a> de El Tiempo Latino.</em></p>
+
+
+
+<p>Late in the afternoon on Election Day, former President Donald Trump posted to social media an unsupported claim about &#8220;massive CHEATING&#8221; in Philadelphia, which he claimed had drawn the attention of law enforcement. </p>
+
+
+
+<p>The Philadelphia Police Department, the Philadelphia district attorney, a Republican city commissioner and the Pennsylvania Department of State all refuted the claim.</p>
+
+
+
+<p>&#8220;A lot of talk about massive CHEATING in Philadelphia. Law Enforcement coming!!!&#8221; Trump <a href="https://truthsocial.com/@realDonaldTrump/posts/113432510587738535">posted</a> on Truth Social at 4:39 p.m. on Election Day. </p>
+
+
+
+<p>We reached out to the Trump campaign&nbsp;for information about&nbsp;where the alleged cheating was occurring and what law enforcement was responding, but we did not receive a response.</p>
+
+
+
+<p>The Philadelphia Police Department <a href="https://perma.cc/NTX8-GMC7">told CNN</a> it was not aware of any election-related issues that had prompted a law enforcement response.</p>
+
+
+
+<p>Responding to Trump&#8217;s post, Philadelphia City Commissioner <a href="https://vote.phila.gov/about-us/commissioners/commissioner-seth-bluestein/" target="_blank" rel="noreferrer noopener">Seth Bluestein</a>, a Republican, <a href="https://x.com/SethBluestein/status/1853926611495567694">posted</a> on X, &#8220;There is absolutely no truth to this allegation.&#8221;</p>
+
+
+
+<p>&#8220;It is yet another example of disinformation,&#8221; wrote Bluestein, who is also a member of the <a href="https://bipartisanpolicy.org/elections-task-force/">Bipartisan Policy Center&#8217;s task force on elections</a>. &#8220;Voting in Philadelphia has been safe and secure.&#8221;</p>
+
+
+
+<p>Philadelphia District Attorney Larry Krasner also <a href="https://x.com/DA_LarryKrasner/status/1853929895857917994">weighed in</a> via X, calling Trump&#8217;s claim &#8220;unfounded.&#8221;</p>
+
+
+
+<p>&#8220;The only talk about massive cheating has come from one of the candidates, Donald J. Trump,&#8221; Krasner wrote. &#8220;There is no factual basis whatsoever within law enforcement to support this wild allegation. We have invited complaints and allegations of improprieties all day. If Donald J. Trump has any facts to support his wild allegations, we want them now. Right now. We are not holding our breath.&#8221;</p>
+
+
+
+<p>Asked to comment on Trump&#8217;s post, the press office for the Pennsylvania Department of State &#8212; which oversees the state&#8217;s elections &#8212; sent us this statement: &#8220;Pennsylvania counties, including Philadelphia, are running a safe and secure election.&#8221;</p>
+
+
+
+<p>Trump has made unsubstantiated claims about Philadelphia before. In September, Trump cited the <a href="https://www.factcheck.org/2024/09/trumps-latest-bogus-claim-about-mail-in-vote-fraud-in-pennsylvania/">dubious</a> results of a poll commissioned by a conservative group as the foundation for his claim of rampant voter fraud among mail-in voters in Pennsylvania.</p>
+
+
+
+<p>We will update this story if Trump or his campaign provides any details to support the claim.  </p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note:&nbsp;FactCheck.org does not accept advertising. We rely on grants and individual donations from people like you. Please consider a donation. Credit card donations may be made through&nbsp;<a href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" target="_blank" rel="noreferrer noopener">our “Donate” page</a>. If you prefer to give by check, send to: FactCheck.org, Annenberg Public Policy Center, 202 S. 36th St., Philadelphia, PA 19104.&nbsp;</em></p>
+<p>The post <a href="https://www.factcheck.org/2024/11/trump-makes-unsupported-claim-about-massive-cheating-in-philadelphia/">Trump Makes Unsupported Claim About &#8216;Massive CHEATING&#8217; in Philadelphia</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Posts Spread Unfounded Claim of Race-Based Threat of Violence in Georgia</title>
+		<link>https://www.factcheck.org/2024/11/posts-spread-unfounded-claim-of-race-based-threat-of-violence-in-georgia/</link>
+		
+		<dc:creator><![CDATA[Danielle McLean]]></dc:creator>
+		<pubDate>Tue, 05 Nov 2024 21:42:04 +0000</pubDate>
+				<category><![CDATA[Debunking Viral Claims]]></category>
+		<category><![CDATA[FactCheck Posts]]></category>
+		<category><![CDATA[2024 elections]]></category>
+		<category><![CDATA[Presidential Election 2024]]></category>
+		<guid isPermaLink="false">https://www.factcheck.org/?p=264106</guid>
+
+					<description><![CDATA[<p><img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Gwinnett-720-x-307.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/Gwinnett-720-x-307.png 720w, https://cdn.factcheck.org/UploadedFiles/Gwinnett-720-x-307-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />Posts shared on Facebook make an unfounded claim of racially motivated threats of violence in Gwinnett County, Georgia, "from now until the Inauguration." The county sheriff's office said it had "not received any information indicating threats to any group(s) on or after election day."</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/posts-spread-unfounded-claim-of-race-based-threat-of-violence-in-georgia/">Posts Spread Unfounded Claim of Race-Based Threat of Violence in Georgia</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="640" height="273" src="https://cdn.factcheck.org/UploadedFiles/Gwinnett-720-x-307.png" class="attachment-medium_large size-medium_large wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" decoding="async" loading="lazy" srcset="https://cdn.factcheck.org/UploadedFiles/Gwinnett-720-x-307.png 720w, https://cdn.factcheck.org/UploadedFiles/Gwinnett-720-x-307-340x145.png 340w" sizes="(max-width: 640px) 100vw, 640px" />
+<p><em>Para leer en español, vea <a href="https://eltiempolatino.com/2024/11/07/politica-comunidad-latino/violencia-electoral-georgia-racial-factcheck/" target="_blank" rel="noreferrer noopener">esta traducción</a> de El Tiempo Latino.</em></p>
+
+
+
+<h2 class="wp-block-heading">Quick Take</h2>
+
+
+
+<p>Posts shared on Facebook make an unfounded claim of racially motivated threats of violence in Gwinnett County, Georgia, &#8220;from now until the Inauguration.&#8221; The county sheriff&#8217;s office said it had &#8220;not received any information indicating threats to any group(s) on or after election day.&#8221;</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Full Story</h2>
+
+
+
+<p>The 2024 election season has seen a rash of <a href="https://archive.is/1BQbe" target="_blank" rel="noreferrer noopener">political violence</a>. There were <a href="https://www.factcheck.org/2024/09/posts-misrepresent-police-reports-preceding-trump-rally-in-new-york/" target="_blank" rel="noreferrer noopener">two assassination attempts</a> against former President Donald Trump, one of which resulted in the death of a campaign rally attendee. An office used by Vice President Kamala Harris&#8217; campaign team in Tempe, Arizona, was <a href="https://archive.is/Duexw" target="_blank" rel="noreferrer noopener">damaged by gunfire</a> three times. Law enforcement officials also have seen a wave of threats against poll workers and political activists ahead of Election Day, the New York Times <a href="https://www.nytimes.com/2024/10/25/us/politics/election-officials-workers-threats.html" target="_blank" rel="noreferrer noopener">reported</a>.&nbsp;</p>
+
+
+
+<p>Amid that atmosphere of violence and threats of violence, a chain of Facebook posts &#8212; citing an unnamed deputy in the Gwinnett County, Georgia, sheriff’s office &#8212; spread an unfounded claim of threats against Black women in Georgia. </p>
+
+
+
+<p>The Facebook user who shared the <a href="https://archive.is/vBqUZ" target="_blank" rel="noreferrer noopener">post on Nov. 1</a> wrote, in part: &#8220;&#8216;Hey ladies, I just received this from a friend who works in the Gwinnett County Sheriff&#8217;s office!!! Be on Alert&#8230; Last night, a deputy told a family that local White Supremacists/ KKK members originating out of Lexington, NC, are planning to attack from now until the Inauguration. They are plotting against Blacks, especially black women because in their eyes, we are easy targets! Please be vigilant! Try not to do anything alone, especially after dark! This is not a hoax or a rumor! The deputy showed paperwork that the police department has.&#8221;</p>
+
+
+
+<p><a href="https://archive.is/MZzG5" target="_blank" rel="noreferrer noopener">Similar text</a> <a href="https://archive.is/IkbP8" target="_blank" rel="noreferrer noopener">was shared</a> by other users on Facebook.</p>
+
+
+
+<p>But the <a href="https://archive.is/GraCM" target="_blank" rel="noreferrer noopener">Gwinnett County Sheriff’s Office said</a> on its Facebook page on Nov. 2 that it has not received any information on such threats.</p>
+
+
+
+<p>“The Gwinnett County Sheriff’s Office has been made aware of a circulating text thread suggesting potential attacks on African American women &#8216;from now through the inauguration.&#8217; We have not received any information indicating threats to any group(s) on or after election day,&#8221; the sheriff&#8217;s office said.</p>
+
+
+
+<p>&#8220;Hateful discourse such as this aims to instill fear in the community and disrupt us from exercising our constitutional rights. The Gwinnett County Sheriff’s Office remains dedicated to protecting all citizens and we will continue to monitor and respond accordingly to all suspicious and threatening behavior.&#8221;</p>
+
+
+
+<p>The sheriff&#8217;s office also said it is working with &#8220;local, state, and federal authorities to stay current on any potential threats surrounding the general election,&#8221; and it directed reports of threats to local law enforcement or the tip line, 770-619-6655.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><em>Editor’s note:&nbsp;<a href="http://factcheck.org/" target="_blank" rel="noreferrer noopener">FactCheck.org</a>&nbsp;is one of several organizations&nbsp;<a href="http://www.annenbergpublicpolicycenter.org/factcheck-org-to-work-with-facebook-on-exposing-viral-fake-news/" target="_blank" rel="noreferrer noopener">working with Facebook</a>&nbsp;to debunk misinformation shared on social media. Our previous stories can be found&nbsp;<a href="https://www.factcheck.org/fake-news/" target="_blank" rel="noreferrer noopener">here</a>. Facebook has&nbsp;<a href="https://www.factcheck.org/2017/07/debunking-fake-news/" target="_blank" rel="noreferrer noopener">no control</a>&nbsp;over our editorial content.</em></p>
+
+
+
+<h2 class="wp-block-heading">Sources</h2>
+
+
+
+<p>Farrow, Fritz. <a href="https://archive.is/Duexw" target="_blank" rel="noreferrer noopener">&#8220;Harris campaign office in Arizona shot at for third time in a month, police say.&#8221;</a> ABC News. 9 Oct 2024.&nbsp;</p>
+
+
+
+<p>Gwinnett County Sheriff&#8217;s Office. <a href="https://www.facebook.com/gwinnettsheriff/" target="_blank" rel="noreferrer noopener">Facebook post</a>. 2 Nov 2024.&nbsp;</p>
+
+
+
+<p>McLean, Danielle. <a href="https://www.factcheck.org/2024/09/posts-misrepresent-police-reports-preceding-trump-rally-in-new-york/" target="_blank" rel="noreferrer noopener">&#8220;Posts Misrepresent Police Reports Preceding Trump Rally in New York.&#8221;</a> FactCheck.org. Updated 26 Sep 2024.</p>
+
+
+
+<p>Thrush, Glenn, Adam Goldman, Alan Feuer and Eileen Sullivan. “<a href="https://www.nytimes.com/2024/10/25/us/politics/election-officials-workers-threats.html" target="_blank" rel="noreferrer noopener">Election Officials Face Torrent of Threats as Nov. 5 Looms</a>.” New York Times. 25 Oct 2024.</p>
+
+
+
+<p>Parker, Ned and Peter Eisler. <a href="https://archive.is/1BQbe" target="_blank" rel="noreferrer noopener">&#8220;New cases of political violence roil U.S. ahead of contentious election.&#8221;</a> Reuters. 21 Oct 2024.</p>
+<p>The post <a href="https://www.factcheck.org/2024/11/posts-spread-unfounded-claim-of-race-based-threat-of-violence-in-georgia/">Posts Spread Unfounded Claim of Race-Based Threat of Violence in Georgia</a> appeared first on <a href="https://www.factcheck.org">FactCheck.org</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
