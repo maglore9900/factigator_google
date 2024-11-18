@@ -20,7 +20,8 @@
       "contextMenus",
       "activeTab",
       "scripting",
-      "storage"
+      "storage",
+      "declarativeNetRequest"
     ],
     "background": {
       "service_worker": "background.js"

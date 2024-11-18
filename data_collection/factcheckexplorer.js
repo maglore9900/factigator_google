@@ -42,7 +42,7 @@ async fetchFactCheckData(query) {
       // Call the All Origins API
       // const response = await fetch(`https://api.allorigins.win/get?url=${encodedUrl}`);
       const response = await this.fetchFromBackground(`${builtUrl}`);
-      console.log('Raw API response:', response)
+
       if (!response) {
           // console.log('No data returned from the API.');
           return null;  // or return {};
@@ -50,10 +50,8 @@ async fetchFactCheckData(query) {
 
       // Remove the prefix ")]}'" from the response contents
       const cleanedContent = response.replace(/^\)\]\}\'\n/, '');
-      console.log('Cleaned content:', cleanedContent)
       // Parse the cleaned JSON content
       const parsedData = JSON.parse(cleanedContent);
-      console.log('Parsed API response:', parsedData);
 
       return parsedData;
   } catch (error) {
@@ -63,7 +61,7 @@ async fetchFactCheckData(query) {
 }
 
   fetchFromBackground(url) {
-    console.log(`Fetching from background: ${url}`);
+    // console.log(`Fetching from background: ${url}`);
     return new Promise((resolve, reject) => {
       // Send message to the background script with the URL
       chrome.runtime.sendMessage(
@@ -77,7 +75,7 @@ async fetchFactCheckData(query) {
   
           if (response && response.success) {
             // Return the raw JSON data
-            console.log('Response data:', response.data);
+            // console.log('Response data:', response.data);
             resolve(response.data);
           } else if (!response) {
             console.log('No response from background script');
@@ -162,7 +160,7 @@ extractInfo(data) {
       }
 
       return {
-        "Claim": claimText,
+        "Title": claimText,
         "Verdict": verdict,
         "Source Name": sourceName,
         "Source URL": sourceUrl,
@@ -185,6 +183,7 @@ extractInfo(data) {
           throw new Error('No data returned from fetchFactCheckData');
         }
         const extractedInfo = this.extractInfo(rawJson);
+        console.log(`fact checker tool response ${JSON.stringify(extractedInfo, null, 2)}`)
         return extractedInfo;
       } catch (error) {
         console.error(`Error during fact-checking: ${error}`);

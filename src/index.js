@@ -143,10 +143,10 @@ async function retryWithKeywordsAsync(fns) {
 
   // Helper function to generate reduced sets of keywords
   async function generateReducedKeywords(currentKeywords) {
-// const reducePrompt = `The following keywords: '{keyWords}' are too broad. Identify and remove the least relevant word based on importance to the original claim: ${globalClaim}. 
-    
-// REMOVE ONE WORD. 
-    
+// const reducePrompt = `The following keywords: '{keyWords}' are too broad. Identify and remove the least relevant word based on importance to the original claim: ${globalClaim}.
+
+// REMOVE ONE WORD.
+
 // Only return the keywords as a comma delimited list!`;
 
   const reducePrompt = `
@@ -162,10 +162,10 @@ async function retryWithKeywordsAsync(fns) {
     const keyword_count = currentKeywords.length;
     
     while (attempt < 4) {
-      console.log(`current keywords: ${currentKeywords}`)
+      // console.log(`current keywords: ${currentKeywords}`)
       let newReducedKeywordsResponse = await adapter.chat(reducePrompt.replace('{keyWords}', currentKeywords.join(', ')));
       let cleanReducedKeywords = cleanKeywords(newReducedKeywordsResponse);  
-      console.log(`newReducedKeywordsResponse: ${cleanReducedKeywords}`);
+      // console.log(`newReducedKeywordsResponse: ${cleanReducedKeywords}`);
       if (cleanReducedKeywords.length < keyword_count) {
         let attempt = 0;
         return cleanReducedKeywords;
@@ -176,48 +176,48 @@ async function retryWithKeywordsAsync(fns) {
     process.exit(1)
   }
 
-  //Master Function of Functions
   await Promise.all(
     fns.map(async (fn, index) => {
       let iterationCount = 0;
-  
-      // Loop until a result is found or all keyword lists are exhausted
+
       while (iterationCount < global_keywords.length) {
-        // Access the keyword list at the position of iterationCount
         let currentKeywords = global_keywords[iterationCount];
-        
-        console.log(`Iteration: ${iterationCount}, keyword list length: ${currentKeywords.length}, keyword lists count: ${global_keywords.length}`);
-  
-        // Attempt the function with the current set of keywords
-        const result = await fn(currentKeywords);
-  
-        // If a result is found, store it and break out of the loop
-        if (result && result.length > 0) {
-          results[index] = result;
-          break;
+        try {
+          const result = await fn(currentKeywords);
+
+          // Identify and process the result based on its format
+          if (result && typeof result === 'object') {
+            if (Array.isArray(result)) {
+              // Format 2: Array of results
+              if (result.length > 0) {
+                results[index] = result;
+                console.log(`Format 2: Array of results for function ${index}`, result);
+                break;
+              }
+            } else if (Object.keys(result).length > 0) {
+              // Format 1: Object with domain keys
+              Object.keys(result).forEach(domain => {
+                console.log(`Format 1: Found results [${domain}] for function ${index}`, result[domain]);
+                if (!results[index]) results[index] = {};
+                results[index][domain] = result[domain];
+              });
+              break;
+            }
+          } else {
+            console.log(`No valid result found for function ${index} with keywords [${currentKeywords}].`);
+          }
+        } catch (error) {
+          console.error(`Error in function ${index} execution: ${error}`);
         }
-  
-        // If no result found and we reach the last list, attempt to reduce the keywords
-        if (iterationCount === global_keywords.length - 1 && currentKeywords.length > 1) {
-          const reducedKeywords = await generateReducedKeywords(currentKeywords);
-          //let cleanReducedKeywords = cleanKeywords(reducedKeywords);
-          global_keywords.push(reducedKeywords);
-          console.log(`Global keyword list length: ${global_keywords.length}`);
-        } else if (iterationCount === global_keywords.length - 1 || iterationCount > 5) {
-          console.log(`No results found for function ${index} with current keywords.`);
-          break;
-        }
-  
-        // Increment iteration count to access the next list of keywords
         iterationCount++;
       }
-      console.log(`No results found for function ${index} with current keywords.`);
     })
   );
-  
-
+  console.log('Aggregated Results:', results);
   return results;
 }
+
+
 
 function cleanKeywords(keyWords) {
   if (typeof keyWords !== 'string') {
@@ -231,14 +231,14 @@ function cleanKeywords(keyWords) {
   return cleanedString.split(/\s+/).filter(word => word);
 }
 
-  
+
 async function performFactCheck(claim) {  
     const extractPrompt = `<description>Extract the keywords from the given claim</description>
       <instruction>These keywords will be used to search for information in a database.
       Do not add words.
-      Do not include any other text. 
-      Do not number the list. 
-      Limit the response to no more than 5 key words. 
+      Do not include any other text.
+      Do not number the list.
+      Limit the response to no more than 5 key words.
       Simply respond with the keywords in a comma delimited list
       </instruction>
       <claim>"${claim}"</claim>`;
@@ -254,16 +254,29 @@ async function performFactCheck(claim) {
   
     try {
       // Extract initial keywords from the claim
-      console.log("extracting")
+      // console.log("extracting")
       let keyWordsResponse = await adapter.chat(extractPrompt);
       let keyWords = cleanKeywords(keyWordsResponse);
       global_keywords = [[...keyWords]]; // Initialize global_keywords with the initial list
-      console.log("keywords extracted:", keyWords)
+      // console.log("keywords extracted:", keyWords)
       // Fetch the report using the current keywords
       const report = await retryWithKeywordsAsync(
         [factCheckExplorer.process.bind(factCheckExplorer), rssReader.searchMultipleFeeds.bind(rssReader)]
       );
-
+      console.log('index results', report)
+      if (Array.isArray(report[0])) {
+        report[0].forEach((item, index) => {
+          console.log(`Report Segment 1, Item ${index}:`, item);
+        });
+      }
+      
+      // Check if the second report segment is not null and inspect it
+      if (report[1] !== null) {
+        console.log("Second Report Segment Content:", report[1]);
+      }
+      if (report[2] !== null) {
+        console.log("Second Report Segment Content:", report[2]);
+      }
       // Check if results are found
       if (report.some(r => r && Object.keys(r).length > 0)) {
         // Filter and aggregate valid reports
