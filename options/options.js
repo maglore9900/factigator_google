@@ -54,7 +54,7 @@ function toggleLLMFields(llmType) {
         openaiKeyGroup.style.display = "none";
         openaiModelGroup.style.display = "none";
         ollamaFields.style.display = "none";
-        googleKeyGroup.style.display = "Block"
+        googleKeyGroup.style.display = "block"
     
     } else {
         openaiKeyGroup.style.display = "block";
@@ -142,11 +142,17 @@ function saveOptions(e) {
 
     // Only save the API key if it is not masked (to prevent saving masked value)
     if (openaiApiKey === "********") {
-        openaiApiKey = null; // Don't overwrite the saved key with masked value
-    }
+        // Retrieve the saved API key from local storage and set it as the value
+        openaiApiKey = browser.storage.local.get("openaiApiKey", (result) => {
+          return result.openaiApiKey;
+        });
+      }
     if (googleApiKey === "********") {
-        googleApiKey = null; // Don't overwrite the saved key with masked value
-    }
+        // Retrieve the saved API key from local storage and set it as the value
+        googleApiKey = browser.storage.local.get("googleApiKey", (result) => {
+          return result.openaiApiKey;
+        });
+      }
 
     // Save the options to local storage
     browser.storage.local.set({
@@ -165,6 +171,9 @@ function saveOptions(e) {
 
         // Mask the OpenAI API key after saving
         if (openaiApiKey) {
+            maskApiKey();
+        }
+        if (googleApiKey) {
             maskApiKey();
         }
     });
@@ -193,6 +202,7 @@ function restoreOptions() {
         openaiModel: "gpt-4o-mini",
         ollamaEndpoint: "http://localhost:11434",
         ollamaModel: "llama3.2:3b",
+        googleApiKey: "",
         googleFactCheckerEnabled: true,
         rssFeeds: [],
     }, (result) => {
@@ -205,6 +215,10 @@ function restoreOptions() {
         // Restore OpenAI API key
         if (result.openaiApiKey) {
             document.getElementById("openai-api-key").value = "********";
+            maskApiKey();
+        }
+        if (result.googleApiKey) {
+            document.getElementById("google-api-key").value = "********";
             maskApiKey();
         }
 
@@ -224,6 +238,7 @@ function restoreOptions() {
             addExistingEntry(rssFeedList, feed.url, feed.enabled);
         });
 
+        toggleLLMFields(result.llmType);
     });
 }
 
