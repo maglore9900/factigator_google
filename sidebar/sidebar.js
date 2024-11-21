@@ -15,13 +15,18 @@ function createSidebarElements() {
   claimElement.innerHTML = '<strong>Claim:</strong> Loading...';
   sidebar.appendChild(claimElement);
 
-  // Summary element
+  // Create summary label wrapper
+  const summaryLabel = document.createElement('div');
+  summaryLabel.id = 'summary-label';
+  summaryLabel.innerHTML = '<strong>Summary:</strong>';
+  sidebar.appendChild(summaryLabel);
+
+  // Summary element inside summary-label
   const summaryElement = document.createElement('div');
   summaryElement.id = 'summary-text';
-  summaryElement.innerHTML = '<strong>Summary:</strong> Pending...';
-  // summaryElement.innerHTML = '<strong>Summary:</strong> <span id="summary-progress">Pending...</span>';
-  sidebar.appendChild(summaryElement);
-  startProgressIndicator('summary-text')
+  summaryElement.innerHTML = 'Pending...';
+  summaryLabel.appendChild(summaryElement);
+  startProgressIndicator('summary-text');
   
 
   // Status element
@@ -37,10 +42,8 @@ function createSidebarElements() {
   sidebar.appendChild(sourcesElement);
 }
 
-// Function to update the sidebar elements dynamically
 function updateSidebarContent(data) {
   // Select sidebar elements
-  
   const claimElement = document.getElementById('claim-text');
   const summaryElement = document.getElementById('summary-text');
   const statusElement = document.getElementById('status-text');
@@ -55,12 +58,21 @@ function updateSidebarContent(data) {
 
   // Update summary if available
   if (data.summary) {
-    onSummaryReady()
+    onSummaryReady();
     const formattedSummary = data.summary.replace(/^"|"$/g, '').replace(/\\n/g, '\n');
     if (typeof marked !== 'undefined') {
-      summaryElement.innerHTML = `<strong>Summary:</strong><br>${marked.parse(formattedSummary)}`;
+      summaryElement.innerHTML = marked.parse(formattedSummary);
     } else {
-      summaryElement.innerHTML = `<strong>Summary:</strong><br>${formattedSummary}`;
+      summaryElement.innerHTML = formattedSummary;
+    }
+
+    // Apply error styling inline if the summary includes "Error"
+    if (data.summary.includes("Error")) {
+      summaryElement.style.color = 'red';
+      summaryElement.classList.add('error');
+    } else {
+      summaryElement.style.color = '';  // Reset if not an error
+      summaryElement.classList.remove('error');
     }
   }
 

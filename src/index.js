@@ -117,24 +117,41 @@ function injectSidebar(claim) {
   };
 }
 
-// Updates the sidebar with the final fact-check result
 function updateSidebar(result) {
   const sidebarFrame = document.getElementById('sidebar-frame');
   if (sidebarFrame) {
-    // console.log("Updating sidebar with final data:", result);
+    let summaryText = result.error ? result.result : result.result; // Handle both success and error cases
     sidebarFrame.contentWindow.postMessage({
       action: 'displaySummary',
       data: {
         claim: globalClaim,
-        summary: result.result, // Update with final summary text
-        status: 'Completed',
-        sources: result.sources
+        summary: summaryText, // Use the summary or error text
+        status: summaryText.includes('Error') ? 'Error' : 'Completed',
+        sources: result.sources || [] // Default to an empty array if sources are not available
       }
     }, '*');
   } else {
-    // console.error('Sidebar iframe not found.');
+    console.error('Sidebar iframe not found.');
   }
 }
+// // Updates the sidebar with the final fact-check result
+// function updateSidebar(result) {
+//   const sidebarFrame = document.getElementById('sidebar-frame');
+//   if (sidebarFrame) {
+//     // console.log("Updating sidebar with final data:", result);
+//     sidebarFrame.contentWindow.postMessage({
+//       action: 'displaySummary',
+//       data: {
+//         claim: globalClaim,
+//         summary: result.result, // Update with final summary text
+//         status: 'Completed',
+//         sources: result.sources
+//       }
+//     }, '*');
+//   } else {
+//     // console.error('Sidebar iframe not found.');
+//   }
+// }
     
 
 async function retryWithKeywordsAsync(fns) {
@@ -256,6 +273,9 @@ async function performFactCheck(claim) {
       // Extract initial keywords from the claim
       // console.log("extracting")
       let keyWordsResponse = await adapter.chat(extractPrompt);
+      if (keyWordsResponse.error) {
+        throw new Error(keyWordsResponse.message);
+      }
       let keyWords = cleanKeywords(keyWordsResponse);
       global_keywords = [[...keyWords]]; // Initialize global_keywords with the initial list
       // console.log("keywords extracted:", keyWords)
@@ -283,12 +303,21 @@ async function performFactCheck(claim) {
         const validReports = report.filter(r => r && Object.keys(r).length > 0);
         const validatePromptWithReport = validatePrompt.replace('{report}', JSON.stringify(validReports));
         const validateResponse = await adapter.chat(validatePromptWithReport);
+        
+        console.log("Validate Response Received: ", validateResponse);
+        
+        if (validateResponse.error) {
+          console.error("Error in validation response: ", validateResponse.message);
+          throw new Error(validateResponse.message);
+        }
+
         globalFactDataPoints = validReports.length;
         return { result: validateResponse };
       } else {
         return { result: 'No information found on this topic.' };
       }
     } catch (error) {
+      updateSidebar({ result: `Error - ${error.message}`, sources: [] });
       throw new Error(`Error during fact-checking: ${error.message}`);
     }
   }

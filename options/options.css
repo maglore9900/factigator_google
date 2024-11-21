@@ -144,4 +144,10 @@ body {
         color: white;
         border: none;
     }
-    
+    .status-message.error {
+        background-color: #e74c3c; /* Existing background color */
+        color: red; /* Ensure the text color is overriding correctly */
+        padding: 10px;
+        border-radius: 5px;
+        font-weight: bold;
+    }
