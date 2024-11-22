@@ -53,7 +53,7 @@ class Adapter {
       let generationConfig = {
         temperature: 1
       };
-      const genAI = new GoogleGenerativeAI(this.googleApiKey);  // Declare genAI here
+      const genAI = new GoogleGenerativeAI(this.googleApiKey); 
       this.llmChat = genAI.getGenerativeModel({
         model: 'gemini-1.5-flash',
         safetySettings,
@@ -64,30 +64,7 @@ class Adapter {
     }
   }
 
-  // async chat(query) {
-  //   if (!this.llmChat) {
-  //     await this.init(); // Ensure initialization
-  //   }
-  //   try {
-  //     console.log(`Sending query to LLM: ${query} to ${this.llmText}`);
-  //     let result;
-  //     let output;
-  //     if (this.llmText !== "google") {
-  //       result = await this.llmChat.invoke(query);
-  //       output = result.content;
-  //     } else {
-  //       result = await this.llmChat.generateContent(query);
-  //       output = result.response.text()
-  //     }
-  //     // let result = await this.llmChat.generateContent(query)
-  //     // console.log(`Received response from LLM: ${JSON.stringify(result.content)}`);
-  //     console.log(`Received response from LLM: ${JSON.stringify(output)}`);
-  //     return JSON.stringify(output);
-  //   } catch (error) {
-  //     console.error(`Error in adapter.chat(): ${error.message}`);
-  //     throw error; // Re-throw to catch it in performFactCheck
-  //   }
-  // }
+
   async chat(query) {
     if (!this.llmChat) {
         await this.init(); // Ensure initialization
