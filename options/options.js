@@ -1,8 +1,22 @@
 let browser = (typeof chrome !== 'undefined') ? chrome : (typeof browser !== 'undefined') ? browser : null;
 
 
+// document.addEventListener("DOMContentLoaded", () => {
+//     initializeOptions()
+//     restoreOptions();  // Restore options when the page loads
+//     setupEventHandlers();  // Set up event handlers for inputs and buttons
+
+//     // Set up event listeners for the new buttons
+//     document.getElementById("restore-button").addEventListener("click", () => {
+//         if (confirm("Are you sure you want to restore the default options? This will overwrite your current settings.")) {
+//             restoreOptions();  // Call the existing restoreOptions function
+//         }
+//     });
+
+//     document.getElementById("save-button").addEventListener("click", saveOptions);  // Call the existing saveOptions function
+// });
 document.addEventListener("DOMContentLoaded", () => {
-    initializeOptions()
+    initializeOptions();
     restoreOptions();  // Restore options when the page loads
     setupEventHandlers();  // Set up event handlers for inputs and buttons
 
@@ -14,6 +28,9 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     document.getElementById("save-button").addEventListener("click", saveOptions);  // Call the existing saveOptions function
+    
+    // Add listener for Verify Endpoint button
+    document.getElementById("verify-endpoint").addEventListener("click", verifyEndpoint); 
 });
 
 
@@ -291,4 +308,98 @@ function initializeOptions() {
         }
 
     });
+}
+
+function verifyEndpoint() {
+    // Get current settings
+    const llmType = document.getElementById("llm-type").value;
+    const openaiApiKey = document.getElementById("openai-api-key").value || '';
+    const googleApiKey = document.getElementById("google-api-key").value || '';
+    const openaiModel = document.getElementById("openai-model").value;
+    const ollamaEndpoint = document.getElementById("ollama-endpoint").value;
+    const ollamaModel = document.getElementById("ollama-model").value;
+    const resultSpan = document.getElementById("verify-endpoint-result");
+
+    // Clear previous results and reset color
+    resultSpan.textContent = "";
+    resultSpan.style.color = "inherit"; // Reset to default text color
+
+    // Validation for required fields
+    if (llmType === "openai" && (!openaiApiKey || !openaiModel)) {
+        resultSpan.textContent = "Error: OpenAI API key and model are required.";
+        updateStatusMessageStyle();
+        return;
+    }
+
+    if (llmType === "google" && !googleApiKey) {
+        resultSpan.textContent = "Error: Google API key is required.";
+        updateStatusMessageStyle();
+        return;
+    }
+
+    if (llmType === "ollama" && (!ollamaEndpoint || !ollamaModel)) {
+        resultSpan.textContent = "Error: Ollama endpoint and model are required.";
+        updateStatusMessageStyle();
+        return;
+    }
+
+    // Start the validating animation
+    let dotCount = 0;
+    const maxDots = 3;
+    const interval = setInterval(() => {
+        resultSpan.textContent = "Validating" + ".".repeat(dotCount);
+        dotCount = (dotCount + 1) % (maxDots + 1);
+    }, 500);
+
+    // Prepare object to send based on llmType
+    let requestData = { action: "checkEndPoint", llmType };
+
+    switch (llmType) {
+        case "openai":
+            requestData = {
+                ...requestData,
+                apiKey: openaiApiKey,
+                model: openaiModel
+            };
+            break;
+        case "google":
+            requestData = {
+                ...requestData,
+                apiKey: googleApiKey
+            };
+            break;
+        case "ollama":
+            requestData = {
+                ...requestData,
+                endPoint: ollamaEndpoint,
+                model: ollamaModel
+            };
+            break;
+    }
+
+    // Send message to background script
+    chrome.runtime.sendMessage(requestData, (response) => {
+        clearInterval(interval); // Stop the "Validating..." animation
+
+        if (chrome.runtime.lastError) {
+            resultSpan.textContent = "Error connecting to the background script.";
+        } else {
+            if (response.success) {
+                resultSpan.textContent = response.message;
+            } else {
+                resultSpan.textContent = `Error: ${response.message}, ${response.error || ''}`;
+            }
+        }
+        updateStatusMessageStyle();
+    });
+}
+
+// Function to update the style of the status message based on its content
+function updateStatusMessageStyle() {
+    const resultSpan = document.getElementById("verify-endpoint-result");
+    if (resultSpan.textContent.includes("Error:")) {
+        resultSpan.style.color = "red";
+    } else {
+        resultSpan.style.color = "inherit"; // Use default color for non-error messages
+    }
 }
