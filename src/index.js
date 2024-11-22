@@ -181,6 +181,10 @@ async function retryWithKeywordsAsync(fns) {
     while (attempt < 4) {
       // console.log(`current keywords: ${currentKeywords}`)
       let newReducedKeywordsResponse = await adapter.chat(reducePrompt.replace('{keyWords}', currentKeywords.join(', ')));
+      if (newReducedKeywordsResponse.error) {
+        console.error("Error in keyword extraction response: ", newReducedKeywordsResponse.message);
+        throw new Error(newReducedKeywordsResponse.message);
+      }
       let cleanReducedKeywords = cleanKeywords(newReducedKeywordsResponse);  
       // console.log(`newReducedKeywordsResponse: ${cleanReducedKeywords}`);
       if (cleanReducedKeywords.length < keyword_count) {
