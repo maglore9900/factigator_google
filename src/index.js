@@ -12,6 +12,7 @@ let global_keywords = [];
 let adapter;
 let factCheckExplorer;
 let rssReader;
+let settings;
 // console.log("Content script loaded.");
 
 
@@ -38,7 +39,7 @@ function loadLLMSettings() {
   }
 
 async function initializeSettings() {
-  const settings = await loadLLMSettings(); // Wait for settings to load
+  settings = await loadLLMSettings(); // Wait for settings to load
   // console.log(`Settings loaded: ${JSON.stringify(settings)}`);
   // console.log(`factCheckExplorer: ${settings.factCheckExplorer}`);
   adapter = new Adapter(settings);
@@ -272,8 +273,31 @@ async function performFactCheck(claim) {
   <Explanation>
   
   <Sources> (OPTIONAL: sources to verify the information ONLY USE VALID SOURCES/URLS/WEBSITES, if you dont know, dont include it)`;
-  
+    if (!settings) {
+      await initializeSettings(); 
+    }    
+
     try {
+      //validate api key existance
+      function isApiKeyNeeded() {
+          console.log("Debugging settings:", settings); // Log the full object for inspection
+          console.log(`Type of openaiApiKey: ${typeof settings.openaiApiKey}`);
+          console.log(`Raw openaiApiKey value: '${settings.openaiApiKey}'`);
+          if (settings.llmType === 'openai' && (!settings.openaiApiKey || settings.openaiApiKey.trim() === "")) {
+                    console.log('API key is needed for openai');
+                    return true;
+                }
+          if (settings.llmType === 'google' && (!settings.googleApiKey || settings.googleApiKey.trim() === "")) {
+                    console.log('API key is needed for google');
+                    return true;
+                }
+          return false;
+      }
+          
+      if (isApiKeyNeeded()) {
+        await new Promise(resolve => setTimeout(resolve, 1000));
+        throw new Error("API key is required for the selected LLM type. Update Options with your API key.");
+      } 
       // Extract initial keywords from the claim
       // console.log("extracting")
       let keyWordsResponse = await adapter.chat(extractPrompt);
@@ -316,12 +340,12 @@ async function performFactCheck(claim) {
         }
 
         globalFactDataPoints = validReports.length;
-        return { result: validateResponse };
+        return { result: validateResponse, sources: [] };
       } else {
         return { result: 'No information found on this topic.' };
       }
     } catch (error) {
-      updateSidebar({ result: `Error - ${error.message}`, sources: [] });
-      throw new Error(`Error during fact-checking: ${error.message}`);
+      console.log(`error message check ${error.message}`)
+      updateSidebar({ result: `Error - ${error.message}`});
     }
   }
