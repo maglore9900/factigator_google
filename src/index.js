@@ -280,15 +280,12 @@ async function performFactCheck(claim) {
     try {
       //validate api key existance
       function isApiKeyNeeded() {
-          console.log("Debugging settings:", settings); // Log the full object for inspection
-          console.log(`Type of openaiApiKey: ${typeof settings.openaiApiKey}`);
-          console.log(`Raw openaiApiKey value: '${settings.openaiApiKey}'`);
           if (settings.llmType === 'openai' && (!settings.openaiApiKey || settings.openaiApiKey.trim() === "")) {
-                    console.log('API key is needed for openai');
+                    // console.log('API key is needed for openai');
                     return true;
                 }
           if (settings.llmType === 'google' && (!settings.googleApiKey || settings.googleApiKey.trim() === "")) {
-                    console.log('API key is needed for google');
+                    // console.log('API key is needed for google');
                     return true;
                 }
           return false;
@@ -332,7 +329,7 @@ async function performFactCheck(claim) {
         const validatePromptWithReport = validatePrompt.replace('{report}', JSON.stringify(validReports));
         const validateResponse = await adapter.chat(validatePromptWithReport);
         
-        console.log("Validate Response Received: ", validateResponse);
+        // console.log("Validate Response Received: ", validateResponse);
         
         if (validateResponse.error) {
           console.error("Error in validation response: ", validateResponse.message);
